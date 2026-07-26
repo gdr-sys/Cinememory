@@ -1,268 +1,200 @@
 {
-  "12-1": [
+  "10-1": [
     {
-      "year": 1935,
+      "year": 1924,
       "cat": "birth",
-      "it": "Woody Allen",
-      "en": "Woody Allen",
-      "it_d": "Nasce a Brooklyn uno dei registi più prolifici del cinema, maestro della commedia intellettuale e nevrotica.",
-      "en_d": "Born in Brooklyn, one of cinema's most prolific directors and a master of intellectual and neurotic comedy.",
-      "it_long": "Allen Stewart Konigsberg, noto come Woody Allen, ha ridefinito il cinema americano trasformando le sue ossessioni per la psicanalisi, la morte e il sesso in capolavori come 'Io e Annie' e 'Manhattan'. Con oltre cinquanta film all'attivo, ha creato un genere unico che fonde l'umorismo slapstick con la filosofia esistenziale e la celebrazione visiva di città come New York, Parigi e Roma. Detentore del record per il maggior numero di nomination alla migliore sceneggiatura originale agli Oscar, Allen è rimasto fedele alla sua visione autoriale, mantenendo un controllo creativo quasi totale sulle sue opere e influenzando generazioni di sceneggiatori con i suoi dialoghi brillanti e serrati.",
-      "en_long": "Allen Stewart Konigsberg, better known as Woody Allen, redefined American cinema by transforming his obsessions with psychoanalysis, death, and sex into masterpieces like 'Annie Hall' and 'Manhattan'. With over fifty films to his credit, he created a unique genre that blends slapstick humor with existential philosophy and the visual celebration of cities like New York, Paris, and Rome. Holding the record for the most Academy Award nominations for Best Original Screenplay, Allen has remained loyal to his auteur vision, maintaining near-total creative control over his works and influencing generations of screenwriters with his brilliant, fast-paced dialogue."
+      "it": "Nasce Jimmy Carter, produttore e sostenitore del cinema",
+      "en": "Birth of Jimmy Carter, film supporter",
+      "it_d": "Nasce il futuro presidente USA che sostenne politiche culturali legate anche all'industria cinematografica.",
+      "en_d": "Birth of the future U.S. president who supported cultural policies affecting the film industry.",
+      "it_long": "Il 1° ottobre 1924 nasce Jimmy Carter. Pur non essendo un uomo di cinema, durante la sua presidenza sostenne politiche culturali che ebbero ricadute anche sull'industria cinematografica statunitense, in particolare attraverso il National Endowment for the Arts. La sua figura è stata inoltre raccontata in documentari e film politici, contribuendo alla tradizione del cinema biografico americano contemporaneo.",
+      "en_long": "On October 1, 1924, Jimmy Carter was born. Although not a film professional, during his presidency he supported cultural policies that also impacted the American film industry, particularly through the National Endowment for the Arts. His life has been portrayed in documentaries and political films, contributing to the tradition of contemporary American biographical cinema."
     },
-    {
-      "year": 1940,
-      "cat": "birth",
-      "it": "Richard Pryor",
-      "en": "Richard Pryor",
-      "it_d": "Nasce il comico che ha rivoluzionato la stand-up comedy, influenzando il cinema con il suo stile crudo e geniale.",
-      "en_d": "Born the comedian who revolutionized stand-up comedy, influencing cinema with his raw and brilliant style.",
-      "it_long": "Richard Pryor è considerato uno dei più grandi comici di tutti i tempi, la cui influenza si è estesa profondamente al grande schermo. Celebre per le sue collaborazioni con Gene Wilder in film come 'Nessuno ci può fermare' e 'Non guardarmi: non ti sento', Pryor ha portato nel cinema un'energia comica basata sull'osservazione sociale e sull'autoironia spesso brutale. Oltre alla recitazione, è stato un importante sceneggiatore, contribuendo alla scrittura di cult come 'Mezzogiorno e mezzo di fuoco' di Mel Brooks. La sua capacità di mescolare tragedia personale e satira razziale ha aperto la strada a una nuova narrazione afroamericana nella Hollywood commerciale.",
-      "en_long": "Richard Pryor is considered one of the greatest comedians of all time, and his influence extended deeply to the big screen. Famous for his collaborations with Gene Wilder in films like 'Stir Crazy' and 'See No Evil, Hear No Evil', Pryor brought a comic energy to cinema based on social observation and often brutal self-deprecation. Beyond acting, he was an important screenwriter, contributing to the script of cult classics like Mel Brooks' 'Blazing Saddles'. His ability to mix personal tragedy and racial satire paved the way for a new African-American narrative in mainstream Hollywood."
-    }
-  ],
-  "12-3": [
     {
       "year": 1930,
       "cat": "birth",
-      "it": "Jean-Luc Godard",
-      "en": "Jean-Luc Godard",
-      "it_d": "Nasce il rivoluzionario della Nouvelle Vague, l'uomo che ha riscritto le regole del linguaggio filmico.",
-      "en_d": "Born the revolutionary of the Nouvelle Vague, the man who rewrote the rules of film language.",
-      "it_long": "Jean-Luc Godard è stato il cuore pulsante della Nouvelle Vague francese. Con il suo debutto 'Fino all'ultimo respiro' (1960), ha scardinato la narrazione classica introducendo il montaggio discontinuo (jump cut) e infrangendo la quarta parete. Critico dei 'Cahiers du Cinéma' prima che regista, Godard ha usato la cinepresa come uno strumento politico e filosofico, esplorando la natura delle immagini e del suono. La sua carriera, durata oltre sessant'anni, è stata una sfida costante alle convenzioni commerciali, rendendolo uno dei teorici e creatori più radicali della storia, capace di influenzare registi come Tarantino, Scorsese e Bertolucci.",
-      "en_long": "Jean-Luc Godard was the beating heart of the French New Wave. With his debut 'Breathless' (1960), he dismantled classical storytelling by introducing discontinuous editing (jump cuts) and breaking the fourth wall. A critic for 'Cahiers du Cinéma' before becoming a director, Godard used the camera as a political and philosophical tool, exploring the nature of images and sound. His career, spanning over sixty years, was a constant challenge to commercial conventions, making him one of the most radical theorists and creators in history, influencing directors like Tarantino, Scorsese, and Bertolucci."
-    },
-    {
-      "year": 1976,
-      "cat": "release",
-      "it": "Rocky",
-      "en": "Rocky",
-      "it_d": "Debutta nei cinema americani la saga dello stallone italiano, scritta e interpretata da un allora ignoto Sylvester Stallone.",
-      "en_d": "The saga of the Italian Stallion, written by and starring a then-unknown Sylvester Stallone, debuts in US theaters.",
-      "it_long": "Presentato in anteprima a New York, 'Rocky' non fu solo un successo commerciale, ma un miracolo produttivo. Sylvester Stallone, all'epoca attore squattrinato, scrisse la sceneggiatura in tre giorni e rifiutò di venderla a meno che non gli fosse permesso di interpretare il protagonista. Il film, diretto da John G. Avildsen, vinse tre premi Oscar tra cui Miglior Film e Miglior Regia, trasformando Stallone in una star globale. La pellicola è celebrata per la sua colonna sonora iconica di Bill Conti e per aver codificato la struttura del 'underdog story' sportivo, diventando un simbolo di resilienza e riscatto sociale nel cinema americano.",
-      "en_long": "Premiering in New York, 'Rocky' was not just a commercial success but a production miracle. Sylvester Stallone, a penniless actor at the time, wrote the script in three days and refused to sell it unless he was allowed to play the lead. The film, directed by John G. Avildsen, won three Oscars including Best Picture and Best Director, turning Stallone into a global star. The movie is celebrated for Bill Conti's iconic soundtrack and for codifying the structure of the sports 'underdog story', becoming a symbol of resilience and social redemption in American cinema."
+      "it": "Nasce Philippe Noiret",
+      "en": "Birth of Philippe Noiret",
+      "it_d": "Nasce l'attore francese protagonista di Nuovo Cinema Paradiso.",
+      "en_d": "Birth of the French actor and star of Cinema Paradiso.",
+      "it_long": "Il 19 ottobre 1930 nasce Philippe Noiret a Lilla, in Francia. Con oltre cento film alle spalle, divenne noto al pubblico internazionale per il ruolo del proiezionista Alfredo in 'Nuovo Cinema Paradiso' (1988) di Giuseppe Tornatore, film premio Oscar come miglior film straniero. La sua figura paterna e malinconica nel film è diventata uno dei ritratti più amati del cinema che celebra il cinema stesso.",
+      "en_long": "On October 19, 1930, Philippe Noiret was born in Lille, France. With over a hundred films to his credit, he became known internationally for playing projectionist Alfredo in Giuseppe Tornatore's 'Cinema Paradiso' (1988), winner of the Academy Award for Best Foreign Language Film. His warm, melancholic fatherly presence in the film became one of the most beloved portrayals in cinema about cinema itself."
     }
   ],
-  "12-4": [
+  "10-2": [
     {
-      "year": 1949,
+      "year": 1951,
       "cat": "birth",
-      "it": "Nasce Jeff Bridges",
-      "en": "Birth of Jeff Bridges",
-      "it_d": "Nasce l'attore premio Oscar per Crazy Heart, celebre anche per Il grande Lebowski.",
-      "en_d": "Birth of the Oscar-winning actor for Crazy Heart, also known for The Big Lebowski.",
-      "it_long": "Il 4 dicembre 1949 nasce Jeff Bridges. Figlio d'arte, ha costruito una carriera lunga e versatile, spaziando dal cult 'Il grande Lebowski' dei fratelli Coen a ruoli drammatici come quello in 'Crazy Heart' (2009), che gli è valso l'Oscar come miglior attore dopo cinque candidature precedenti. La sua recitazione naturale e sottotono lo ha reso una delle figure più rispettate del cinema americano contemporaneo.",
-      "en_long": "On December 4, 1949, Jeff Bridges was born. Coming from a family of actors, he built a long and versatile career, ranging from the cult classic 'The Big Lebowski' by the Coen brothers to dramatic roles such as 'Crazy Heart' (2009), which earned him the Academy Award for Best Actor after five prior nominations. His naturalistic, understated acting style made him one of the most respected figures in contemporary American cinema."
-    },
-    {
-      "year": 1964,
-      "cat": "birth",
-      "it": "Nasce Marisa Tomei",
-      "en": "Birth of Marisa Tomei",
-      "it_d": "Nasce l'attrice premio Oscar per Mio cugino Vincenzo, tra le protagoniste del cinema indipendente americano.",
-      "en_d": "Birth of the Oscar-winning actress for My Cousin Vinny, a key figure in American independent cinema.",
-      "it_long": "Il 4 dicembre 1964 nasce Marisa Tomei a Brooklyn. Vinse l'Oscar come miglior attrice non protagonista per 'Mio cugino Vincenzo' (1992), un riconoscimento inizialmente circondato da voci infondate di errore nella lettura del vincitore, poi smentite ufficialmente. Ha continuato a lavorare sia nel cinema indipendente che in produzioni mainstream, ottenendo ulteriori candidature all'Oscar per 'In the Bedroom' e 'The Wrestler'.",
-      "en_long": "On December 4, 1964, Marisa Tomei was born in Brooklyn. She won the Academy Award for Best Supporting Actress for 'My Cousin Vinny' (1992), a win initially surrounded by unfounded rumors of a reading error later officially denied. She has continued to work across independent and mainstream cinema, earning further Oscar nominations for 'In the Bedroom' and 'The Wrestler.'"
+      "it": "Nasce Sting, autore di colonne sonore",
+      "en": "Birth of Sting, film composer contributor",
+      "it_d": "Nasce il musicista che ha firmato brani per il cinema come My Funny Friend and Me.",
+      "en_d": "Birth of the musician who composed songs for films such as My Funny Friend and Me.",
+      "it_long": "Il 2 ottobre 1951 nasce Sting. Oltre alla carriera musicale, ha composto e interpretato brani per il cinema, ricevendo nomination agli Oscar per canzoni originali come 'My Funny Friend and Me' dal film 'Le follie dell'imperatore'. La sua musica ha contribuito a numerose colonne sonore, dimostrando il dialogo continuo tra industria musicale e cinematografica.",
+      "en_long": "On October 2, 1951, Sting was born. Beyond his music career, he composed and performed songs for cinema, receiving Academy Award nominations for original songs such as 'My Funny Friend and Me' from 'The Emperor's New Groove.' His work has contributed to numerous film soundtracks, demonstrating the ongoing dialogue between the music and film industries."
     }
   ],
-  "12-5": [
-    {
-      "year": 1901,
-      "cat": "birth",
-      "it": "Walt Disney",
-      "en": "Walt Disney",
-      "it_d": "Nasce il pioniere dell'animazione e fondatore dell'impero cinematografico che porta il suo nome.",
-      "en_d": "Born the animation pioneer and founder of the cinematic empire that bears his name.",
-      "it_long": "Walter Elias Disney ha trasformato il cinema d'animazione da semplice curiosità tecnica a una forma d'arte di massa. Con la creazione di Topolino e la produzione del primo lungometraggio animato sonoro e a colori, 'Biancaneve e i sette nani' (1937), ha gettato le basi per l'industria moderna dell'intrattenimento. Disney è l'individuo che ha vinto il maggior numero di premi Oscar (22 competitivi e 4 onorari), un record tuttora imbattuto. Il suo contributo tecnologico, dallo sviluppo della cinepresa multipiano all'integrazione tra animazione e live-action, ha segnato tappe fondamentali nell'evoluzione degli effetti visivi e della narrazione fantastica sul grande schermo.",
-      "en_long": "Walter Elias Disney transformed animated cinema from a simple technical curiosity into a mass art form. With the creation of Mickey Mouse and the production of the first sound and color animated feature, 'Snow White and the Seven Dwarfs' (1937), he laid the foundation for the modern entertainment industry. Disney holds the record for the most Academy Awards won by an individual (22 competitive and 4 honorary). His technological contributions, from the development of the multiplane camera to the integration of animation and live-action, marked fundamental milestones in the evolution of visual effects and fantasy storytelling on the big screen."
-    },
-    {
-      "year": 1890,
-      "cat": "birth",
-      "it": "Fritz Lang",
-      "en": "Fritz Lang",
-      "it_d": "Nasce il visionario regista di 'Metropolis', gigante dell'espressionismo tedesco e del genere noir.",
-      "en_d": "Born the visionary director of 'Metropolis', a giant of German Expressionism and the noir genre.",
-      "it_long": "Figura cardine del cinema mondiale, Fritz Lang ha plasmato l'estetica della fantascienza con 'Metropolis' (1927) e del thriller psicologico con 'M - Il mostro di Düsseldorf' (1931). Fuggito dalla Germania nazista, ha proseguito la carriera a Hollywood, diventando uno dei maestri del genere noir grazie al suo stile visivo rigoroso, fatto di ombre profonde e composizioni geometriche che riflettevano il tormento morale dei suoi personaggi. La sua capacità di utilizzare la macchina da presa per esplorare la paranoia e la colpa ha influenzato profondamente il cinema moderno, da Alfred Hitchcock a Ridley Scott, consolidando il suo ruolo di architetto dell'immagine cinematografica.",
-      "en_long": "A pivotal figure in world cinema, Fritz Lang shaped the aesthetics of science fiction with 'Metropolis' (1927) and the psychological thriller with 'M' (1931). Fleeing Nazi Germany, he continued his career in Hollywood, becoming one of the masters of the film noir genre thanks to his rigorous visual style, made of deep shadows and geometric compositions that reflected his characters' moral torment. His ability to use the camera to explore paranoia and guilt deeply influenced modern cinema, from Alfred Hitchcock to Ridley Scott, cementing his role as an architect of the cinematic image."
-    }
-  ],
-  "12-9": [
-    {
-      "year": 1916,
-      "cat": "birth",
-      "it": "Nasce Kirk Douglas",
-      "en": "Birth of Kirk Douglas",
-      "it_d": "Nasce l'attore protagonista di Spartacus, icona dell'epica hollywoodiana degli anni '50 e '60.",
-      "en_d": "Birth of the actor and star of Spartacus, icon of 1950s-60s Hollywood epic cinema.",
-      "it_long": "Il 9 dicembre 1916 nasce Kirk Douglas a Amsterdam, nello stato di New York. Divenne una delle grandi star dell'epoca d'oro di Hollywood, protagonista di 'Spartacus' (1960), film che contribuì anche a rompere la lista nera del maccartismo accreditando pubblicamente lo sceneggiatore Dalton Trumbo. Ricevette un Oscar onorario nel 1996 per il suo contributo al cinema. Padre dell'attore Michael Douglas, è considerato una delle figure più longeve e influenti di Hollywood.",
-      "en_long": "On December 9, 1916, Kirk Douglas was born in Amsterdam, New York. He became one of Hollywood's Golden Age stars, headlining 'Spartacus' (1960), a film that also helped break the Hollywood blacklist by publicly crediting screenwriter Dalton Trumbo. He received an Honorary Academy Award in 1996 for his contribution to film. Father of actor Michael Douglas, he is regarded as one of the most enduring and influential figures in Hollywood history."
-    },
-    {
-      "year": 1934,
-      "cat": "birth",
-      "it": "Nasce Judi Dench",
-      "en": "Birth of Judi Dench",
-      "it_d": "Nasce l'attrice premio Oscar per Shakespeare in Love, celebre anche per il ruolo di M in James Bond.",
-      "en_d": "Birth of the Oscar-winning actress for Shakespeare in Love, also known for playing M in James Bond.",
-      "it_long": "Il 9 dicembre 1934 nasce Judi Dench a York. Formatasi al teatro shakespeariano, ha costruito una carriera cinematografica tardiva ma di grande impatto, vincendo l'Oscar come miglior attrice non protagonista per 'Shakespeare in Love' (1998) nonostante un minutaggio ridottissimo sullo schermo. È diventata celebre al grande pubblico per il ruolo di M nella saga di James Bond, interpretato dal 1995 al 2012.",
-      "en_long": "On December 9, 1934, Judi Dench was born in York. Trained in Shakespearean theatre, she built a late but highly impactful film career, winning the Academy Award for Best Supporting Actress for 'Shakespeare in Love' (1998) despite very limited screen time. She became widely known to mainstream audiences for playing M in the James Bond franchise, a role she held from 1995 to 2012."
-    }
-  ],
-  "12-12": [
-    {
-      "year": 1915,
-      "cat": "birth",
-      "it": "Nasce Frank Sinatra",
-      "en": "Birth of Frank Sinatra",
-      "it_d": "Nasce il cantante e attore premio Oscar per Da qui all'eternità, tra le figure più influenti dell'entertainment americano.",
-      "en_d": "Birth of the singer and Oscar-winning actor for From Here to Eternity, a defining figure of American entertainment.",
-      "it_long": "Il 12 dicembre 1915 nasce Frank Sinatra a Hoboken, New Jersey. Oltre alla leggendaria carriera musicale, si affermò come attore vincendo l'Oscar come miglior attore non protagonista per 'Da qui all'eternità' (1953), ruolo drammatico che segnò una svolta nella sua carriera dopo un periodo di declino commerciale. Il suo passaggio dal music-hall al grande schermo dimostrò la porosità tra industria musicale e cinematografica nell'America del dopoguerra.",
-      "en_long": "On December 12, 1915, Frank Sinatra was born in Hoboken, New Jersey. Beyond his legendary music career, he established himself as an actor, winning the Academy Award for Best Supporting Actor for 'From Here to Eternity' (1953), a dramatic role that marked a turning point after a period of commercial decline. His crossover from music hall to the big screen exemplified the fluidity between the music and film industries in postwar America."
-    }
-  ],
-  "12-15": [
-    {
-      "year": 1939,
-      "cat": "release",
-      "it": "Via col vento",
-      "en": "Gone with the Wind",
-      "it_d": "Premiere mondiale ad Atlanta per il colossale dramma epico, uno dei film di maggior successo di sempre.",
-      "en_d": "World premiere in Atlanta for the colossal epic drama, one of the most successful films of all time.",
-      "it_long": "Diretto ufficialmente da Victor Fleming ma frutto della visione ossessiva del produttore David O. Selznick, 'Via col vento' debuttò il 15 dicembre 1939 ad Atlanta, trasformando la città in un evento mediatico senza precedenti. Il film stabilì nuovi standard per l'uso del Technicolor e per l'imponenza delle scenografie. Vinse otto Oscar competitivi, tra cui quello a Hattie McDaniel, la prima persona afroamericana a ricevere la statuetta. Nonostante le controversie moderne sulla rappresentazione della Guerra Civile, resta un pilastro tecnico della storia del cinema e, se calcolato con l'inflazione, il film con il più alto incasso di tutti i tempi.",
-      "en_long": "Officially directed by Victor Fleming but resulting from producer David O. Selznick's obsessive vision, 'Gone with the Wind' debuted on December 15, 1939, in Atlanta, turning the city into an unprecedented media event. The film set new standards for the use of Technicolor and the scale of its production design. It won eight competitive Oscars, including one for Hattie McDaniel, the first African-American person to receive the award. Despite modern controversies over its depiction of the Civil War, it remains a technical pillar of cinema history and, when adjusted for inflation, the highest-grossing film of all time."
-    },
-    {
-      "year": 1993,
-      "cat": "release",
-      "it": "Schindler's List",
-      "en": "Schindler's List",
-      "it_d": "Esce nelle sale il capolavoro di Steven Spielberg sull'Olocausto, vincitore di 7 premi Oscar.",
-      "en_d": "Steven Spielberg's masterpiece on the Holocaust, winner of 7 Oscars, is released in theaters.",
-      "it_long": "Con 'Schindler's List', Steven Spielberg ha raggiunto la sua piena maturità artistica, allontanandosi temporaneamente dal cinema d'intrattenimento puro per documentare l'orrore della Shoah. Girato quasi interamente in un bianco e nero crudo e documentaristico dal direttore della fotografia Janusz Kaminski, il film racconta la storia vera di Oskar Schindler. La scelta di non usare lo stile 'hollywoodiano' tradizionale e l'intensità delle interpretazioni di Liam Neeson e Ralph Fiennes hanno reso la pellicola un'opera fondamentale per la memoria storica collettiva. Il film ha trionfato agli Oscar, segnando la prima vittoria di Spielberg come Miglior Regista.",
-      "en_long": "With 'Schindler's List', Steven Spielberg reached his full artistic maturity, temporarily stepping away from pure blockbuster entertainment to document the horror of the Shoah. Shot almost entirely in a raw, documentary-style black and white by cinematographer Janusz Kaminski, the film tells the true story of Oskar Schindler. The choice to avoid traditional 'Hollywood' style and the intense performances by Liam Neeson and Ralph Fiennes made the film a fundamental work for collective historical memory. The film triumphed at the Oscars, marking Spielberg's first win for Best Director."
-    }
-  ],
-  "12-16": [
-    {
-      "year": 1938,
-      "cat": "birth",
-      "it": "Nasce Liv Ullmann",
-      "en": "Birth of Liv Ullmann",
-      "it_d": "Nasce l'attrice norvegese musa di Ingmar Bergman, protagonista di Persona e Scene da un matrimonio.",
-      "en_d": "Birth of the Norwegian actress and muse of Ingmar Bergman, star of Persona and Scenes from a Marriage.",
-      "it_long": "Il 16 dicembre 1938 nasce Liv Ullmann a Tokyo, da genitori norvegesi. Divenne la musa e collaboratrice artistica di Ingmar Bergman, protagonista di film fondamentali come 'Persona' (1966) e 'Scene da un matrimonio' (1973). La sua intensità interpretativa contribuì a definire un nuovo standard di recitazione psicologica nel cinema d'autore europeo. In seguito si affermò anche come regista, dirigendo tra gli altri 'Infedele' su sceneggiatura dello stesso Bergman.",
-      "en_long": "On December 16, 1938, Liv Ullmann was born in Tokyo to Norwegian parents. She became Ingmar Bergman's muse and artistic collaborator, starring in landmark films such as 'Persona' (1966) and 'Scenes from a Marriage' (1973). Her intense performances helped define a new standard of psychological acting in European auteur cinema. She later established herself as a director as well, helming 'Faithless,' written by Bergman himself."
-    }
-  ],
-  "12-18": [
+  "10-4": [
     {
       "year": 1946,
       "cat": "birth",
-      "it": "Steven Spielberg",
-      "en": "Steven Spielberg",
-      "it_d": "Nasce il 'Re di Hollywood', regista che ha inventato il concetto di blockbuster moderno.",
-      "en_d": "Born the 'King of Hollywood', the director who invented the concept of the modern blockbuster.",
-      "it_long": "Steven Spielberg è probabilmente il regista più influente della sua generazione. Ha cambiato la storia del business cinematografico con 'Lo squalo' (1975), il primo vero blockbuster estivo, e ha continuato a definire l'immaginario collettivo con titoli come 'E.T.', 'Indiana Jones' e 'Jurassic Park'. Capace di passare con disinvoltura dal cinema fantastico a quello di impegno civile ('Munich', 'Lincoln'), Spielberg ha perfezionato un linguaggio visivo basato sulla meraviglia e sul movimento coreografico della macchina da presa, diventando un modello di riferimento per chiunque voglia raccontare storie attraverso le immagini.",
-      "en_long": "Steven Spielberg is arguably the most influential director of his generation. He changed the history of the film business with 'Jaws' (1975), the first true summer blockbuster, and continued to define the collective imagination with titles like 'E.T.', 'Indiana Jones', and 'Jurassic Park'. Able to transition seamlessly from fantasy to social commitment cinema ('Munich', 'Lincoln'), Spielberg perfected a visual language based on wonder and choreographed camera movement, becoming a reference model for anyone wanting to tell stories through images."
-    },
-    {
-      "year": 1963,
-      "cat": "birth",
-      "it": "Brad Pitt",
-      "en": "Brad Pitt",
-      "it_d": "Nasce una delle ultime grandi icone del cinema, capace di unire fascino da star e talento da caratterista.",
-      "en_d": "Born one of the last great icons of cinema, combining star appeal with character actor talent.",
-      "it_long": "William Bradley Pitt è emerso come sex symbol in 'Thelma & Louise' per poi dimostrare una versatilità straordinaria lavorando con i più grandi autori contemporanei. Da 'Fight Club' di David Fincher a 'C'era una volta a... Hollywood' di Quentin Tarantino (che gli è valso l'Oscar come attore non protagonista), Pitt ha spesso scelto ruoli complessi e non convenzionali. Come produttore con la sua Plan B Entertainment, ha sostenuto film di alto valore artistico e sociale come '12 anni schiavo' e 'Moonlight', entrambi vincitori dell'Oscar come Miglior Film, consolidando la sua posizione di figura chiave dell'industria cinematografica oltre la recitazione.",
-      "en_long": "William Bradley Pitt emerged as a sex symbol in 'Thelma & Louise' before demonstrating extraordinary versatility working with the greatest contemporary auteurs. From David Fincher's 'Fight Club' to Quentin Tarantino's 'Once Upon a Time in Hollywood' (earning him an Oscar for Best Supporting Actor), Pitt has often chosen complex and unconventional roles. As a producer with his Plan B Entertainment, he has supported high artistic and social value films like '12 Years a Slave' and 'Moonlight', both Oscar Best Picture winners, cementing his position as a key industry figure beyond acting."
-    },
-    {
-      "year": 2009,
-      "cat": "release",
-      "it": "Avatar",
-      "en": "Avatar",
-      "it_d": "Esce negli USA il film di James Cameron che ha rivoluzionato il 3D e il motion capture.",
-      "en_d": "James Cameron's film, which revolutionized 3D and motion capture, is released in the US.",
-      "it_long": "Dopo oltre un decennio di attesa per lo sviluppo delle tecnologie necessarie, James Cameron ha rilasciato 'Avatar', cambiando per sempre l'integrazione tra attori reali e mondi digitali. Il film ha introdotto l'uso di cineprese stereoscopiche avanzate e tecniche di 'performance capture' capaci di catturare le minime sfumature espressive degli attori. Nonostante le critiche sulla semplicità della trama, l'impatto visivo su Pandora ha stabilito un nuovo benchmark per gli effetti visivi della Weta Digital. È diventato il film con il più alto incasso della storia, mantenendo il primato per quasi un decennio prima di una breve alternanza con i titoli Marvel.",
-      "en_long": "After over a decade of waiting for the development of necessary technology, James Cameron released 'Avatar', forever changing the integration of real actors and digital worlds. The film introduced the use of advanced stereoscopic cameras and 'performance capture' techniques capable of capturing the smallest expressive nuances of the actors. Despite criticisms of plot simplicity, the visual impact of Pandora set a new benchmark for visual effects by Weta Digital. It became the highest-grossing film in history, holding the record for nearly a decade before a brief rotation with Marvel titles."
+      "it": "Nasce Susan Sarandon",
+      "en": "Birth of Susan Sarandon",
+      "it_d": "Nasce l'attrice premio Oscar per Dead Man Walking, tra le figure più durature di Hollywood.",
+      "en_d": "Birth of the Oscar-winning actress for Dead Man Walking, one of Hollywood's most enduring figures.",
+      "it_long": "Il 4 ottobre 1946 nasce Susan Sarandon a New York. Dopo il ruolo cult in 'The Rocky Horror Picture Show', costruì una carriera versatile con film come 'Thelma & Louise' e 'Dead Man Walking' (1995), che le valse l'Oscar come miglior attrice nel ruolo di suor Helen Prejean. La sua lunga carriera è caratterizzata da un forte impegno civile e da ruoli che affrontano temi sociali complessi.",
+      "en_long": "On October 4, 1946, Susan Sarandon was born in New York. After her cult role in 'The Rocky Horror Picture Show,' she built a versatile career with films such as 'Thelma & Louise' and 'Dead Man Walking' (1995), which earned her the Academy Award for Best Actress as Sister Helen Prejean. Her long career has been marked by strong civic engagement and roles tackling complex social issues."
     }
   ],
-  "12-21": [
+  "10-5": [
     {
-      "year": 1937,
-      "cat": "release",
-      "it": "Prima di Biancaneve e i sette nani",
-      "en": "Snow White and the Seven Dwarfs Premieres",
-      "it_d": "Debutta il primo lungometraggio d'animazione sonoro e a colori della storia, prodotto da Walt Disney.",
-      "en_d": "The first full-length sound-and-color animated feature film in history, produced by Walt Disney, premieres.",
-      "it_long": "Il 21 dicembre 1937 viene proiettato per la prima volta al Carthay Circle Theatre di Los Angeles 'Biancaneve e i sette nani', il primo lungometraggio d'animazione sonoro e a colori della storia del cinema. Il progetto, definito scherzosamente 'la follia di Disney' dalla stampa dell'epoca per il suo costo elevato, si rivelò un enorme successo commerciale e critico, dimostrando che l'animazione poteva sostenere una narrazione lunga e complessa. Il film aprì la strada all'intera produzione di lungometraggi Disney successivi.",
-      "en_long": "On December 21, 1937, 'Snow White and the Seven Dwarfs' premiered at the Carthay Circle Theatre in Los Angeles, the first full-length sound-and-color animated feature in film history. Dubbed 'Disney's Folly' by the press of the time due to its high cost, the project turned out to be an enormous critical and commercial success, proving that animation could sustain long-form, complex storytelling. The film paved the way for all of Disney's subsequent animated feature productions."
-    },
-    {
-      "year": 1948,
+      "year": 1975,
       "cat": "birth",
-      "it": "Nasce Samuel L. Jackson",
-      "en": "Birth of Samuel L. Jackson",
-      "it_d": "Nasce l'attore icona del cinema di Tarantino, tra i volti più prolifici di Hollywood.",
-      "en_d": "Birth of the actor and Tarantino icon, one of Hollywood's most prolific faces.",
-      "it_long": "Il 21 dicembre 1948 nasce Samuel L. Jackson a Washington D.C. Dopo anni di ruoli secondari, ottenne una candidatura all'Oscar per 'Pulp Fiction' (1994) di Quentin Tarantino, diventando uno dei volti simbolo del suo cinema. Con oltre cento film all'attivo, è considerato l'attore con i maggiori incassi complessivi al box office nella storia del cinema, grazie anche al ruolo di Nick Fury nel Marvel Cinematic Universe.",
-      "en_long": "On December 21, 1948, Samuel L. Jackson was born in Washington, D.C. After years of supporting roles, he earned an Academy Award nomination for 'Pulp Fiction' (1994), becoming one of the defining faces of Quentin Tarantino's cinema. With over a hundred film credits, he is considered the highest-grossing actor in box office history overall, helped further by his role as Nick Fury in the Marvel Cinematic Universe."
+      "it": "Nasce Kate Winslet",
+      "en": "Birth of Kate Winslet",
+      "it_d": "Nasce l'attrice premio Oscar per The Reader, protagonista di Titanic ed Eternal Sunshine.",
+      "en_d": "Birth of the Oscar-winning actress for The Reader, star of Titanic and Eternal Sunshine.",
+      "it_long": "Il 5 ottobre 1975 nasce Kate Winslet in Inghilterra. Ottenne fama mondiale con 'Titanic' (1997) di James Cameron, ma la sua carriera si distingue per la scelta di ruoli complessi in film d'autore come 'Eternal Sunshine of the Spotless Mind' e 'The Reader' (2008), che le valse l'Oscar come miglior attrice. È una delle poche attrici ad aver vinto Oscar, Emmy, Grammy e Tony Award nel corso della carriera.",
+      "en_long": "On October 5, 1975, Kate Winslet was born in England. She gained worldwide fame with James Cameron's 'Titanic' (1997), but her career stands out for choosing complex roles in auteur films such as 'Eternal Sunshine of the Spotless Mind' and 'The Reader' (2008), which earned her the Academy Award for Best Actress. She is one of the few actresses to have won an Oscar, Emmy, Grammy, and Tony Award during her career."
     }
   ],
-  "12-25": [
+  "10-9": [
     {
-      "year": 1899,
+      "year": 1966,
       "cat": "birth",
-      "it": "Nasce Humphrey Bogart",
-      "en": "Birth of Humphrey Bogart",
-      "it_d": "Nasce l'attore icona del noir americano, protagonista di Casablanca e Il grande sonno.",
-      "en_d": "Birth of the icon of American film noir, star of Casablanca and The Big Sleep.",
-      "it_long": "Il 25 dicembre 1899 nasce Humphrey Bogart a New York. Divenne il volto simbolo del cinema noir americano grazie a film come 'Il mistero del falco', 'Casablanca' e 'Il grande sonno'. Vinse l'Oscar come miglior attore per 'La regina d'Africa' (1951). Il suo stile recitativo asciutto e disincantato definì un archetipo di antieroe che avrebbe influenzato generazioni di attori successivi.",
-      "en_long": "On December 25, 1899, Humphrey Bogart was born in New York. He became the defining face of American film noir through movies such as 'The Maltese Falcon,' 'Casablanca,' and 'The Big Sleep.' He won the Academy Award for Best Actor for 'The African Queen' (1951). His dry, disenchanted acting style defined an anti-hero archetype that would influence generations of actors to come."
-    },
-    {
-      "year": 1949,
-      "cat": "birth",
-      "it": "Nasce Sissy Spacek",
-      "en": "Birth of Sissy Spacek",
-      "it_d": "Nasce l'attrice premio Oscar per Quando l'amore brucia l'anima, celebre anche per Carrie - Lo sguardo di Satana.",
-      "en_d": "Birth of the Oscar-winning actress for Coal Miner's Daughter, also known for Carrie.",
-      "it_long": "Il 25 dicembre 1949 nasce Sissy Spacek in Texas. Ottenne fama internazionale con 'Carrie - Lo sguardo di Satana' (1976) di Brian De Palma, prima di vincere l'Oscar come miglior attrice per 'Quando l'amore brucia l'anima' (1980), interpretando la cantante country Loretta Lynn. La sua capacità di immedesimarsi in figure femminili complesse e radicate nella provincia americana ha caratterizzato gran parte della sua filmografia.",
-      "en_long": "On December 25, 1949, Sissy Spacek was born in Texas. She gained international fame with Brian De Palma's 'Carrie' (1976) before winning the Academy Award for Best Actress for 'Coal Miner's Daughter' (1980), portraying country singer Loretta Lynn. Her ability to embody complex female characters rooted in small-town America defined much of her filmography."
+      "it": "Nasce David Cameron, soggetto cinematografico",
+      "en": "Birth of David Cameron, cinematic subject",
+      "it_d": "Nasce il politico britannico rappresentato in film e docu‑drama contemporanei.",
+      "en_d": "Birth of the British politician portrayed in contemporary films and docudramas.",
+      "it_long": "Il 9 ottobre 1966 nasce David Cameron. Pur non appartenendo al mondo del cinema, la sua figura è stata rappresentata in docu‑drama e produzioni televisive legate alla Brexit e alla politica britannica recente. Il cinema e la televisione hanno esplorato la sua leadership come parte della narrazione politica europea del XXI secolo.",
+      "en_long": "On October 9, 1966, David Cameron was born. Although not part of the film industry, he has been portrayed in docudramas and television productions related to Brexit and recent British politics. Film and television have explored his leadership as part of the broader narrative of 21st‑century European political history."
     }
   ],
-  "12-27": [
+  "10-13": [
     {
-      "year": 1901,
+      "year": 1941,
       "cat": "birth",
-      "it": "Nasce Marlene Dietrich",
-      "en": "Birth of Marlene Dietrich",
-      "it_d": "Nasce l'attrice tedesca icona de L'angelo azzurro, tra i grandi miti del cinema hollywoodiano.",
-      "en_d": "Birth of the German actress and icon of The Blue Angel, one of the great myths of Hollywood cinema.",
-      "it_long": "Il 27 dicembre 1901 nasce Marlene Dietrich a Berlino. Divenne una star internazionale grazie a 'L'angelo azzurro' (1930) di Josef von Sternberg, con cui avviò un sodalizio artistico che l'avrebbe portata a Hollywood. La sua immagine ambigua e sofisticata, unita a un uso magistrale della luce e del costume, ne fece un'icona di stile oltre che di recitazione. Si oppose pubblicamente al nazismo, rifiutando di tornare in Germania durante il Terzo Reich.",
-      "en_long": "On December 27, 1901, Marlene Dietrich was born in Berlin. She became an international star with Josef von Sternberg's 'The Blue Angel' (1930), beginning an artistic partnership that would bring her to Hollywood. Her ambiguous, sophisticated image, combined with masterful use of lighting and costume, made her a style icon as much as an acting one. She publicly opposed Nazism, refusing to return to Germany during the Third Reich."
-    },
-    {
-      "year": 1948,
-      "cat": "birth",
-      "it": "Nasce Gérard Depardieu",
-      "en": "Birth of Gérard Depardieu",
-      "it_d": "Nasce l'attore simbolo del cinema francese contemporaneo, protagonista di Cyrano de Bergerac.",
-      "en_d": "Birth of the actor and symbol of contemporary French cinema, star of Cyrano de Bergerac.",
-      "it_long": "Il 27 dicembre 1948 nasce Gérard Depardieu a Châteauroux. Divenuto uno degli attori più prolifici e riconoscibili del cinema francese, ottenne una candidatura all'Oscar come miglior attore per 'Cyrano de Bergerac' (1990) di Jean-Paul Rappeneau, uno dei rari casi di nomination per un ruolo interamente in lingua francese. La sua carriera ha attraversato oltre due centinaia di film, spaziando dal dramma alla commedia popolare.",
-      "en_long": "On December 27, 1948, Gérard Depardieu was born in Châteauroux. Becoming one of the most prolific and recognizable actors in French cinema, he earned an Academy Award nomination for Best Actor for Jean-Paul Rappeneau's 'Cyrano de Bergerac' (1990), one of the rare instances of a nomination for an entirely French-language performance. His career has spanned over two hundred films, ranging from drama to popular comedy."
+      "it": "Nasce Paul Simon, autore di colonne sonore",
+      "en": "Birth of Paul Simon",
+      "it_d": "Nasce il musicista la cui musica per Il laureato ha definito una nuova stagione delle colonne sonore.",
+      "en_d": "Birth of the musician whose music for The Graduate defined a new era of film soundtracks.",
+      "it_long": "Il 13 ottobre 1941 nasce Paul Simon. Insieme ad Art Garfunkel firmò la colonna sonora de 'Il laureato' (1967) di Mike Nichols, con brani come 'The Sound of Silence' che divennero indissolubilmente legati all'immaginario del film. La colonna sonora contribuì a consolidare la pratica di utilizzare musica pop preesistente per costruire l'atmosfera emotiva di un film, anticipando una tendenza che sarebbe diventata centrale nel cinema successivo.",
+      "en_long": "On October 13, 1941, Paul Simon was born. Together with Art Garfunkel, he composed the soundtrack for Mike Nichols's 'The Graduate' (1967), with songs like 'The Sound of Silence' becoming inseparable from the film's imagery. The soundtrack helped establish the practice of using pre-existing pop music to build a film's emotional atmosphere, anticipating a trend that would become central to later cinema."
     }
   ],
-  "12-28": [
+  "10-14": [
     {
-      "year": 1895,
+      "year": 1927,
+      "cat": "birth",
+      "it": "Nasce Roger Moore",
+      "en": "Birth of Roger Moore",
+      "it_d": "Nasce l'attore britannico interprete di James Bond in sette film tra il 1973 e il 1985.",
+      "en_d": "Birth of the British actor who portrayed James Bond in seven films between 1973 and 1985.",
+      "it_long": "Il 14 ottobre 1927 nasce Roger Moore. Dopo una lunga carriera televisiva, divenne celebre come James Bond, interpretando l'agente 007 in sette film ufficiali della saga, tra cui 'La spia che mi amava' e 'Moonraker'. Il suo Bond ironico e sofisticato segnò una fase più leggera del franchise. Oltre al cinema, Moore fu ambasciatore UNICEF e ricevette il titolo di Sir per il suo impegno umanitario.",
+      "en_long": "On October 14, 1927, Roger Moore was born. After a long television career, he became famous as James Bond, portraying 007 in seven official films of the franchise, including 'The Spy Who Loved Me' and 'Moonraker.' His witty and sophisticated Bond defined a lighter era of the series. Beyond cinema, Moore served as a UNICEF ambassador and was knighted for his humanitarian work."
+    },
+    {
+      "year": 1888,
+      "cat": "invention",
+      "it": "Le Prince gira il film più antico sopravvissuto",
+      "en": "Le Prince Shoots the Oldest Surviving Film",
+      "it_d": "L'inventore franco-britannico Louis Le Prince gira Roundhay Garden Scene, il più antico filmato sopravvissuto della storia.",
+      "en_d": "French-British inventor Louis Le Prince shoots Roundhay Garden Scene, the oldest surviving motion picture in history.",
+      "it_long": "Il 14 ottobre 1888 Louis Le Prince gira nel giardino di Oakwood Grange, a Roundhay (Leeds), 'Roundhay Garden Scene', due secondi di filmato che ritraggono la sua famiglia camminare in cerchio. È considerato il più antico filmato sopravvissuto della storia del cinema, girato con una cinepresa a singola lente che Le Prince avrebbe brevettato appena un mese dopo. Le Prince scomparve misteriosamente nel 1890 durante un viaggio in treno, prima di poter presentare pubblicamente la sua invenzione, lasciando a Edison e ai fratelli Lumière il merito storico spesso attribuito ai pionieri del cinema.",
+      "en_long": "On October 14, 1888, Louis Le Prince filmed 'Roundhay Garden Scene' in the garden of Oakwood Grange in Roundhay, Leeds — two seconds of footage showing his family walking in a circle. It is considered the oldest surviving film in cinema history, shot with a single-lens camera that Le Prince would patent just a month later. Le Prince mysteriously disappeared in 1890 during a train journey, before he could publicly present his invention, leaving the historical credit often attributed to Edison and the Lumière brothers."
+    }
+  ],
+  "10-15": [
+    {
+      "year": 1908,
+      "cat": "birth",
+      "it": "Nasce John Kenneth Galbraith, presenza cinematografica",
+      "en": "Birth of John Kenneth Galbraith, documentary subject",
+      "it_d": "Nasce l'economista apparso in documentari e film dedicati alla politica economica del Novecento.",
+      "en_d": "Birth of the economist who appeared in documentaries about 20th-century economic policy.",
+      "it_long": "Il 15 ottobre 1908 nasce John Kenneth Galbraith. La sua figura è stata presente in documentari e produzioni televisive dedicate alla politica economica del XX secolo, contribuendo al genere del cinema documentario politico. Le sue analisi e interviste hanno arricchito numerose opere audiovisive di carattere storico e didattico.",
+      "en_long": "On October 15, 1908, John Kenneth Galbraith was born. He appeared in documentaries and television productions focused on 20th-century economic policy, contributing to the political documentary genre. His analyses and interviews enriched numerous historical and educational audiovisual works."
+    }
+  ],
+  "10-16": [
+    {
+      "year": 1925,
+      "cat": "birth",
+      "it": "Nasce Angela Lansbury",
+      "en": "Birth of Angela Lansbury",
+      "it_d": "Nasce l'attrice candidata all'Oscar e protagonista di film come Va' e uccidi.",
+      "en_d": "Birth of the Oscar-nominated actress known for films such as The Manchurian Candidate.",
+      "it_long": "Il 16 ottobre 1925 nasce Angela Lansbury. Candidata tre volte all'Oscar per ruoli non protagonisti, è ricordata per film come 'Va' e uccidi' (1962) e per la carriera teatrale e televisiva culminata con 'La signora in giallo'. La sua versatilità tra cinema, teatro e televisione l'ha resa una delle interpreti più longeve e rispettate del panorama angloamericano.",
+      "en_long": "On October 16, 1925, Angela Lansbury was born. Nominated three times for the Academy Award for Best Supporting Actress, she is remembered for films such as 'The Manchurian Candidate' (1962) and for a long stage and television career, culminating in 'Murder, She Wrote.' Her versatility across film, theater, and television made her one of the most enduring and respected performers in the English-speaking world."
+    }
+  ],
+  "10-17": [
+    {
+      "year": 1918,
+      "cat": "birth",
+      "it": "Nasce Rita Hayworth",
+      "en": "Birth of Rita Hayworth",
+      "it_d": "Nasce l'attrice icona del noir hollywoodiano, protagonista di Gilda.",
+      "en_d": "Birth of the actress and icon of Hollywood noir, star of Gilda.",
+      "it_long": "Il 17 ottobre 1918 nasce Rita Hayworth a New York. Divenne una delle dive più celebrate degli anni '40, consacrata dal ruolo in 'Gilda' (1946), film che la trasformò in un'icona sensuale del cinema noir. La sua celebre scena in cui canta 'Put the Blame on Mame' è considerata tra le più memorabili della storia del cinema. La sua carriera fu segnata da un contrasto tra l'immagine pubblica costruita dallo studio system e le sue vicende personali travagliate.",
+      "en_long": "On October 17, 1918, Rita Hayworth was born in New York. She became one of the most celebrated stars of the 1940s, cemented by her role in 'Gilda' (1946), a film that turned her into a sensual icon of noir cinema. Her famous scene performing 'Put the Blame on Mame' is considered one of the most memorable in film history. Her career was marked by a contrast between the studio-built public image and her turbulent personal life."
+    }
+  ],
+  "10-18": [
+    {
+      "year": 1926,
+      "cat": "birth",
+      "it": "Nasce Chuck Berry, icona musicale del cinema",
+      "en": "Birth of Chuck Berry, cinematic music icon",
+      "it_d": "Nasce il musicista le cui canzoni sono diventate simbolo di film come Ritorno al futuro.",
+      "en_d": "Birth of the musician whose songs became iconic in films like Back to the Future.",
+      "it_long": "Il 18 ottobre 1926 nasce Chuck Berry. Le sue canzoni, in particolare 'Johnny B. Goode', sono diventate parte integrante dell'immaginario cinematografico grazie a film come 'Ritorno al futuro'. Il cinema ha spesso utilizzato la sua musica per evocare l'energia del rock'n'roll delle origini. La sua figura è stata raccontata anche in documentari musicali che ne hanno celebrato l'impatto culturale.",
+      "en_long": "On October 18, 1926, Chuck Berry was born. His songs, especially 'Johnny B. Goode,' became integral to cinematic imagery through films like 'Back to the Future.' Cinema has frequently used his music to evoke the energy of early rock and roll. His life and legacy have also been explored in music documentaries celebrating his cultural impact."
+    }
+  ],
+  "10-24": [
+    {
+      "year": 1939,
+      "cat": "birth",
+      "it": "Nasce F. Murray Abraham",
+      "en": "Birth of F. Murray Abraham",
+      "it_d": "Nasce l'attore premio Oscar per il ruolo di Salieri in Amadeus.",
+      "en_d": "Birth of the Oscar-winning actor for playing Salieri in Amadeus.",
+      "it_long": "Il 24 ottobre 1939 nasce F. Murray Abraham a Pittsburgh. Dopo anni di ruoli secondari, ottenne fama internazionale e l'Oscar come miglior attore per l'interpretazione di Antonio Salieri in 'Amadeus' (1984) di Miloš Forman, film che esplora la rivalità artistica tra il compositore italiano e Mozart. Il ruolo resta il più celebre della sua carriera, capace di trasformare radicalmente le sue prospettive professionali.",
+      "en_long": "On October 24, 1939, F. Murray Abraham was born in Pittsburgh. After years of supporting roles, he gained international fame and the Academy Award for Best Actor for his portrayal of Antonio Salieri in Miloš Forman's 'Amadeus' (1984), a film exploring the artistic rivalry between the Italian composer and Mozart. The role remains the most celebrated of his career, radically transforming his professional prospects."
+    }
+  ],
+  "10-28": [
+    {
+      "year": 1955,
+      "cat": "birth",
+      "it": "Nasce Bill Gates, presenza documentaria",
+      "en": "Birth of Bill Gates, documentary figure",
+      "it_d": "Nasce l'imprenditore protagonista di documentari legati alla tecnologia e all'impatto digitale sul cinema.",
+      "en_d": "Birth of the entrepreneur featured in documentaries about technology and digital impact on cinema.",
+      "it_long": "Il 28 ottobre 1955 nasce Bill Gates. Sebbene non sia un uomo di cinema, la rivoluzione informatica da lui guidata ha influenzato profondamente anche la produzione e la distribuzione cinematografica digitale. La sua figura è stata oggetto di documentari che esplorano l'impatto della tecnologia sull'industria audiovisiva contemporanea.",
+      "en_long": "On October 28, 1955, Bill Gates was born. Although not a film professional, the digital revolution he helped lead has deeply influenced film production and distribution. He has been featured in documentaries exploring the impact of technology on the contemporary audiovisual industry."
+    },
+    {
+      "year": 1892,
       "cat": "historic",
-      "it": "Prima proiezione pubblica dei Lumière",
-      "en": "First Lumière public screening",
-      "it_d": "Al Salon Indien del Grand Café di Parigi nasce ufficialmente il cinema come lo conosciamo.",
-      "en_d": "At the Salon Indien of the Grand Café in Paris, cinema as we know it was officially born.",
-      "it_long": "Il 28 dicembre 1895 è considerata la data di nascita convenzionale del cinema. I fratelli Auguste e Louis Lumière organizzarono la prima proiezione pubblica a pagamento utilizzando il loro Cinématographe. Tra i dieci brevi film proiettati c'era 'L'uscita dalle officine Lumière'. Contrariamente al Kinetoscopio di Edison, che era una visione individuale, il sistema Lumière permetteva la visione collettiva su uno schermo, creando l'esperienza sociale della sala cinematografica. Si racconta che gli spettatori fossero così impressionati dal realismo delle immagini in movimento da restare pietrificati o tentare di fuggire davanti alla famosa scena dell'arrivo del treno.",
-      "en_long": "December 28, 1895, is considered the conventional birth date of cinema. The brothers Auguste and Louis Lumière organized the first public paid screening using their Cinématographe. Among the ten short films shown was 'Workers Leaving the Lumière Factory'. Unlike Edison's Kinetoscope, which was for individual viewing, the Lumière system allowed for collective viewing on a screen, creating the social experience of the movie theater. Legend has it that spectators were so impressed by the realism of the moving images that they were petrified or even tried to flee during the famous scene of the train arriving at the station."
+      "it": "Reynaud proietta le prime animazioni al pubblico pagante",
+      "en": "Reynaud Screens the First Animations to a Paying Public",
+      "it_d": "Émile Reynaud presenta al Musée Grévin di Parigi Pantomimes Lumineuses, la prima proiezione di immagini animate a un pubblico pagante, precedendo i Lumière di tre anni.",
+      "en_d": "Émile Reynaud presents Pantomimes Lumineuses at the Musée Grévin in Paris, the first projected animation shown to a paying audience, preceding the Lumières by three years.",
+      "it_long": "Il 28 ottobre 1892 l'inventore francese Émile Reynaud presenta al Musée Grévin di Parigi 'Pantomimes Lumineuses', proiettando con il suo Théâtre Optique immagini animate disegnate a mano su una pellicola perforata, davanti a un pubblico pagante. L'evento precede di oltre tre anni la celebre prima proiezione a pagamento dei fratelli Lumière (dicembre 1895), spesso considerata convenzionalmente la nascita del cinema. Il sistema di Reynaud, che utilizzava già pellicole perforate, è oggi riconosciuto dagli storici del cinema come un tassello fondamentale, seppur meno noto, nell'evoluzione dell'immagine in movimento proiettata.",
+      "en_long": "On October 28, 1892, French inventor Émile Reynaud presented 'Pantomimes Lumineuses' at the Musée Grévin in Paris, projecting hand-drawn animated images on perforated film via his Théâtre Optique before a paying audience. The event preceded by more than three years the famous first paid screening by the Lumière brothers (December 1895), often conventionally regarded as the birth of cinema. Reynaud's system, which already used perforated film, is now recognized by film historians as a fundamental, though less celebrated, step in the evolution of the projected moving image."
+    }
+  ],
+  "10-30": [
+    {
+      "year": 1960,
+      "cat": "birth",
+      "it": "Nasce Diego Armando Maradona, soggetto documentaristico",
+      "en": "Birth of Diego Maradona",
+      "it_d": "Nasce il calciatore protagonista del pluripremiato documentario Diego Maradona di Asif Kapadia.",
+      "en_d": "Birth of the footballer, subject of Asif Kapadia's acclaimed documentary Diego Maradona.",
+      "it_long": "Il 30 ottobre 1960 nasce Diego Armando Maradona. La sua vita è stata raccontata nel documentario 'Diego Maradona' (2019) di Asif Kapadia, costruito interamente su materiale d'archivio inedito, nello stile che aveva già reso celebre il regista con 'Senna' e 'Amy'. Il film esplora il rapporto tra genio sportivo e fragilità personale, consolidando Maradona come figura mitologica del cinema documentario sportivo contemporaneo.",
+      "en_long": "On October 30, 1960, Diego Armando Maradona was born. His life was chronicled in Asif Kapadia's documentary 'Diego Maradona' (2019), built entirely from unseen archival footage, in the style that had already made the director famous with 'Senna' and 'Amy.' The film explores the relationship between sporting genius and personal fragility, cementing Maradona as a mythological figure in contemporary sports documentary cinema."
     }
   ]
 }
