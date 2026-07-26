@@ -57,6 +57,18 @@
       "en_long": "On October 5, 1975, Kate Winslet was born in England. She gained worldwide fame with James Cameron's 'Titanic' (1997), but her career stands out for choosing complex roles in auteur films such as 'Eternal Sunshine of the Spotless Mind' and 'The Reader' (2008), which earned her the Academy Award for Best Actress. She is one of the few actresses to have won an Oscar, Emmy, Grammy, and Tony Award during her career."
     }
   ],
+  "10-6": [
+    {
+      "year": 1927,
+      "cat": "historic",
+      "it": "Prima de Il cantante di jazz, il primo film sonoro",
+      "en": "The Jazz Singer Premieres, the First Sound Film",
+      "it_d": "Al Jolson pronuncia le prime parole sincronizzate della storia del cinema, segnando la fine dell'era del muto.",
+      "en_d": "Al Jolson speaks the first synchronized words in film history, marking the end of the silent era.",
+      "it_long": "Il 6 ottobre 1927 debutta al Warner's Theatre di New York 'Il cantante di jazz', diretto da Alan Crosland e interpretato da Al Jolson. Il film, in gran parte muto ma con alcune sequenze cantate e parlate sincronizzate grazie al sistema Vitaphone, è considerato il primo lungometraggio sonoro di successo della storia del cinema. La celebre battuta pronunciata da Jolson, 'Aspettate un attimo, non avete ancora sentito nulla', segnò simbolicamente l'inizio dell'era dei 'talkies' e la fine del cinema muto, rivoluzionando l'intera industria in pochi anni.",
+      "en_long": "On October 6, 1927, 'The Jazz Singer' premiered at Warner's Theatre in New York, directed by Alan Crosland and starring Al Jolson. The film, mostly silent but featuring some synchronized sung and spoken sequences thanks to the Vitaphone system, is considered the first successful sound feature film in cinema history. Jolson's famous line, 'Wait a minute, wait a minute, you ain't heard nothin' yet,' symbolically marked the beginning of the talkies era and the end of silent cinema, revolutionizing the entire industry within just a few years."
+    }
+  ],
   "10-13": [
     {
       "year": 1941,
@@ -149,6 +161,18 @@
       "en_d": "Émile Reynaud presents Pantomimes Lumineuses at the Musée Grévin in Paris, the first projected animation shown to a paying audience, preceding the Lumières by three years.",
       "it_long": "Il 28 ottobre 1892 l'inventore francese Émile Reynaud presenta al Musée Grévin di Parigi 'Pantomimes Lumineuses', proiettando con il suo Théâtre Optique immagini animate disegnate a mano su una pellicola perforata, davanti a un pubblico pagante. L'evento precede di oltre tre anni la celebre prima proiezione a pagamento dei fratelli Lumière (dicembre 1895), spesso considerata convenzionalmente la nascita del cinema. Il sistema di Reynaud, che utilizzava già pellicole perforate, è oggi riconosciuto dagli storici del cinema come un tassello fondamentale, seppur meno noto, nell'evoluzione dell'immagine in movimento proiettata.",
       "en_long": "On October 28, 1892, French inventor Émile Reynaud presented 'Pantomimes Lumineuses' at the Musée Grévin in Paris, projecting hand-drawn animated images on perforated film via his Théâtre Optique before a paying audience. The event preceded by more than three years the famous first paid screening by the Lumière brothers (December 1895), often conventionally regarded as the birth of cinema. Reynaud's system, which already used perforated film, is now recognized by film historians as a fundamental, though less celebrated, step in the evolution of the projected moving image."
+    }
+  ],
+  "10-30": [
+    {
+      "year": 1938,
+      "cat": "curiosity",
+      "it": "Orson Welles semina il panico con La guerra dei mondi",
+      "en": "Orson Welles Causes Panic with The War of the Worlds",
+      "it_d": "L'adattamento radiofonico di Orson Welles del romanzo di H.G. Wells terrorizza parte del pubblico americano e gli spalanca le porte di Hollywood.",
+      "en_d": "Orson Welles's radio adaptation of H.G. Wells's novel terrifies part of the American public and opens Hollywood's doors to him.",
+      "it_long": "Il 30 ottobre 1938 il ventitreenne Orson Welles trasmette in diretta radiofonica su CBS un adattamento de 'La guerra dei mondi' di H.G. Wells, ambientato come un finto notiziario in tempo reale su un'invasione marziana nel New Jersey. Il formato, realistico al punto da generare autentico panico in parte degli ascoltatori convinti di assistere a un evento vero, rese Welles improvvisamente celebre in tutta l'America. L'episodio gli aprì le porte di un contratto con uno studio di Hollywood, che tre anni dopo gli avrebbe permesso di scrivere, dirigere, produrre e interpretare 'Quarto potere', spesso considerato il più grande film americano di sempre.",
+      "en_long": "On October 30, 1938, 23-year-old Orson Welles broadcast live on CBS radio an adaptation of H.G. Wells's 'The War of the Worlds,' staged as a fake real-time news bulletin about a Martian invasion of New Jersey. The format, realistic enough to cause genuine panic among listeners convinced they were witnessing a real event, made Welles suddenly famous across America. The episode opened the door to a Hollywood studio contract, which three years later would allow him to write, direct, produce, and star in 'Citizen Kane,' often regarded as the greatest American film ever made."
     }
   ]
 }
