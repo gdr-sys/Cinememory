@@ -9,6 +9,16 @@
       "en_d": "Birth of the future U.S. president who supported cultural policies affecting the film industry.",
       "it_long": "Il 1° ottobre 1924 nasce Jimmy Carter. Pur non essendo un uomo di cinema, durante la sua presidenza sostenne politiche culturali che ebbero ricadute anche sull'industria cinematografica statunitense, in particolare attraverso il National Endowment for the Arts. La sua figura è stata inoltre raccontata in documentari e film politici, contribuendo alla tradizione del cinema biografico americano contemporaneo.",
       "en_long": "On October 1, 1924, Jimmy Carter was born. Although not a film professional, during his presidency he supported cultural policies that also impacted the American film industry, particularly through the National Endowment for the Arts. His life has been portrayed in documentaries and political films, contributing to the tradition of contemporary American biographical cinema."
+    },
+    {
+      "year": 1930,
+      "cat": "birth",
+      "it": "Nasce Philippe Noiret",
+      "en": "Birth of Philippe Noiret",
+      "it_d": "Nasce l'attore francese protagonista di Nuovo Cinema Paradiso.",
+      "en_d": "Birth of the French actor and star of Cinema Paradiso.",
+      "it_long": "Il 19 ottobre 1930 nasce Philippe Noiret a Lilla, in Francia. Con oltre cento film alle spalle, divenne noto al pubblico internazionale per il ruolo del proiezionista Alfredo in 'Nuovo Cinema Paradiso' (1988) di Giuseppe Tornatore, film premio Oscar come miglior film straniero. La sua figura paterna e malinconica nel film è diventata uno dei ritratti più amati del cinema che celebra il cinema stesso.",
+      "en_long": "On October 19, 1930, Philippe Noiret was born in Lille, France. With over a hundred films to his credit, he became known internationally for playing projectionist Alfredo in Giuseppe Tornatore's 'Cinema Paradiso' (1988), winner of the Academy Award for Best Foreign Language Film. His warm, melancholic fatherly presence in the film became one of the most beloved portrayals in cinema about cinema itself."
     }
   ],
   "10-2": [
@@ -23,16 +33,28 @@
       "en_long": "On October 2, 1951, Sting was born. Beyond his music career, he composed and performed songs for cinema, receiving Academy Award nominations for original songs such as 'My Funny Friend and Me' from 'The Emperor's New Groove.' His work has contributed to numerous film soundtracks, demonstrating the ongoing dialogue between the music and film industries."
     }
   ],
-  "10-6": [
+  "10-4": [
     {
       "year": 1946,
       "cat": "birth",
-      "it": "Nasce Sally Field",
-      "en": "Birth of Sally Field",
-      "it_d": "Nasce l'attrice due volte premio Oscar per Norma Rae e Le stagioni del cuore.",
-      "en_d": "Birth of the two-time Oscar-winning actress for Norma Rae and Places in the Heart.",
-      "it_long": "Il 6 novembre 1946 nasce Sally Field. Dopo il successo televisivo, si affermò al cinema vincendo l'Oscar come miglior attrice per 'Norma Rae' (1979) e 'Le stagioni del cuore' (1984). Il suo celebre discorso di ringraziamento agli Oscar del 1985 è rimasto nella memoria collettiva. Ha interpretato ruoli che mettono al centro la dignità e la resilienza femminile, consolidando una carriera lunga e rispettata nell'industria hollywoodiana.",
-      "en_long": "On November 6, 1946, Sally Field was born. After early television success, she established herself in film by winning the Academy Award for Best Actress for 'Norma Rae' (1979) and 'Places in the Heart' (1984). Her famous 1985 Oscar acceptance speech remains iconic. She portrayed roles centered on female dignity and resilience, building a long and respected Hollywood career."
+      "it": "Nasce Susan Sarandon",
+      "en": "Birth of Susan Sarandon",
+      "it_d": "Nasce l'attrice premio Oscar per Dead Man Walking, tra le figure più durature di Hollywood.",
+      "en_d": "Birth of the Oscar-winning actress for Dead Man Walking, one of Hollywood's most enduring figures.",
+      "it_long": "Il 4 ottobre 1946 nasce Susan Sarandon a New York. Dopo il ruolo cult in 'The Rocky Horror Picture Show', costruì una carriera versatile con film come 'Thelma & Louise' e 'Dead Man Walking' (1995), che le valse l'Oscar come miglior attrice nel ruolo di suor Helen Prejean. La sua lunga carriera è caratterizzata da un forte impegno civile e da ruoli che affrontano temi sociali complessi.",
+      "en_long": "On October 4, 1946, Susan Sarandon was born in New York. After her cult role in 'The Rocky Horror Picture Show,' she built a versatile career with films such as 'Thelma & Louise' and 'Dead Man Walking' (1995), which earned her the Academy Award for Best Actress as Sister Helen Prejean. Her long career has been marked by strong civic engagement and roles tackling complex social issues."
+    }
+  ],
+  "10-5": [
+    {
+      "year": 1975,
+      "cat": "birth",
+      "it": "Nasce Kate Winslet",
+      "en": "Birth of Kate Winslet",
+      "it_d": "Nasce l'attrice premio Oscar per The Reader, protagonista di Titanic ed Eternal Sunshine.",
+      "en_d": "Birth of the Oscar-winning actress for The Reader, star of Titanic and Eternal Sunshine.",
+      "it_long": "Il 5 ottobre 1975 nasce Kate Winslet in Inghilterra. Ottenne fama mondiale con 'Titanic' (1997) di James Cameron, ma la sua carriera si distingue per la scelta di ruoli complessi in film d'autore come 'Eternal Sunshine of the Spotless Mind' e 'The Reader' (2008), che le valse l'Oscar come miglior attrice. È una delle poche attrici ad aver vinto Oscar, Emmy, Grammy e Tony Award nel corso della carriera.",
+      "en_long": "On October 5, 1975, Kate Winslet was born in England. She gained worldwide fame with James Cameron's 'Titanic' (1997), but her career stands out for choosing complex roles in auteur films such as 'Eternal Sunshine of the Spotless Mind' and 'The Reader' (2008), which earned her the Academy Award for Best Actress. She is one of the few actresses to have won an Oscar, Emmy, Grammy, and Tony Award during her career."
     }
   ],
   "10-9": [
@@ -47,6 +69,18 @@
       "en_long": "On October 9, 1966, David Cameron was born. Although not part of the film industry, he has been portrayed in docudramas and television productions related to Brexit and recent British politics. Film and television have explored his leadership as part of the broader narrative of 21st‑century European political history."
     }
   ],
+  "10-13": [
+    {
+      "year": 1941,
+      "cat": "birth",
+      "it": "Nasce Paul Simon, autore di colonne sonore",
+      "en": "Birth of Paul Simon",
+      "it_d": "Nasce il musicista la cui musica per Il laureato ha definito una nuova stagione delle colonne sonore.",
+      "en_d": "Birth of the musician whose music for The Graduate defined a new era of film soundtracks.",
+      "it_long": "Il 13 ottobre 1941 nasce Paul Simon. Insieme ad Art Garfunkel firmò la colonna sonora de 'Il laureato' (1967) di Mike Nichols, con brani come 'The Sound of Silence' che divennero indissolubilmente legati all'immaginario del film. La colonna sonora contribuì a consolidare la pratica di utilizzare musica pop preesistente per costruire l'atmosfera emotiva di un film, anticipando una tendenza che sarebbe diventata centrale nel cinema successivo.",
+      "en_long": "On October 13, 1941, Paul Simon was born. Together with Art Garfunkel, he composed the soundtrack for Mike Nichols's 'The Graduate' (1967), with songs like 'The Sound of Silence' becoming inseparable from the film's imagery. The soundtrack helped establish the practice of using pre-existing pop music to build a film's emotional atmosphere, anticipating a trend that would become central to later cinema."
+    }
+  ],
   "10-14": [
     {
       "year": 1927,
@@ -57,6 +91,16 @@
       "en_d": "Birth of the British actor who portrayed James Bond in seven films between 1973 and 1985.",
       "it_long": "Il 14 ottobre 1927 nasce Roger Moore. Dopo una lunga carriera televisiva, divenne celebre come James Bond, interpretando l'agente 007 in sette film ufficiali della saga, tra cui 'La spia che mi amava' e 'Moonraker'. Il suo Bond ironico e sofisticato segnò una fase più leggera del franchise. Oltre al cinema, Moore fu ambasciatore UNICEF e ricevette il titolo di Sir per il suo impegno umanitario.",
       "en_long": "On October 14, 1927, Roger Moore was born. After a long television career, he became famous as James Bond, portraying 007 in seven official films of the franchise, including 'The Spy Who Loved Me' and 'Moonraker.' His witty and sophisticated Bond defined a lighter era of the series. Beyond cinema, Moore served as a UNICEF ambassador and was knighted for his humanitarian work."
+    },
+    {
+      "year": 1888,
+      "cat": "invention",
+      "it": "Le Prince gira il film più antico sopravvissuto",
+      "en": "Le Prince Shoots the Oldest Surviving Film",
+      "it_d": "L'inventore franco-britannico Louis Le Prince gira Roundhay Garden Scene, il più antico filmato sopravvissuto della storia.",
+      "en_d": "French-British inventor Louis Le Prince shoots Roundhay Garden Scene, the oldest surviving motion picture in history.",
+      "it_long": "Il 14 ottobre 1888 Louis Le Prince gira nel giardino di Oakwood Grange, a Roundhay (Leeds), 'Roundhay Garden Scene', due secondi di filmato che ritraggono la sua famiglia camminare in cerchio. È considerato il più antico filmato sopravvissuto della storia del cinema, girato con una cinepresa a singola lente che Le Prince avrebbe brevettato appena un mese dopo. Le Prince scomparve misteriosamente nel 1890 durante un viaggio in treno, prima di poter presentare pubblicamente la sua invenzione, lasciando a Edison e ai fratelli Lumière il merito storico spesso attribuito ai pionieri del cinema.",
+      "en_long": "On October 14, 1888, Louis Le Prince filmed 'Roundhay Garden Scene' in the garden of Oakwood Grange in Roundhay, Leeds — two seconds of footage showing his family walking in a circle. It is considered the oldest surviving film in cinema history, shot with a single-lens camera that Le Prince would patent just a month later. Le Prince mysteriously disappeared in 1890 during a train journey, before he could publicly present his invention, leaving the historical credit often attributed to Edison and the Lumière brothers."
     }
   ],
   "10-15": [
@@ -83,6 +127,18 @@
       "en_long": "On October 16, 1925, Angela Lansbury was born. Nominated three times for the Academy Award for Best Supporting Actress, she is remembered for films such as 'The Manchurian Candidate' (1962) and for a long stage and television career, culminating in 'Murder, She Wrote.' Her versatility across film, theater, and television made her one of the most enduring and respected performers in the English-speaking world."
     }
   ],
+  "10-17": [
+    {
+      "year": 1918,
+      "cat": "birth",
+      "it": "Nasce Rita Hayworth",
+      "en": "Birth of Rita Hayworth",
+      "it_d": "Nasce l'attrice icona del noir hollywoodiano, protagonista di Gilda.",
+      "en_d": "Birth of the actress and icon of Hollywood noir, star of Gilda.",
+      "it_long": "Il 17 ottobre 1918 nasce Rita Hayworth a New York. Divenne una delle dive più celebrate degli anni '40, consacrata dal ruolo in 'Gilda' (1946), film che la trasformò in un'icona sensuale del cinema noir. La sua celebre scena in cui canta 'Put the Blame on Mame' è considerata tra le più memorabili della storia del cinema. La sua carriera fu segnata da un contrasto tra l'immagine pubblica costruita dallo studio system e le sue vicende personali travagliate.",
+      "en_long": "On October 17, 1918, Rita Hayworth was born in New York. She became one of the most celebrated stars of the 1940s, cemented by her role in 'Gilda' (1946), a film that turned her into a sensual icon of noir cinema. Her famous scene performing 'Put the Blame on Mame' is considered one of the most memorable in film history. Her career was marked by a contrast between the studio-built public image and her turbulent personal life."
+    }
+  ],
   "10-18": [
     {
       "year": 1926,
@@ -93,6 +149,18 @@
       "en_d": "Birth of the musician whose songs became iconic in films like Back to the Future.",
       "it_long": "Il 18 ottobre 1926 nasce Chuck Berry. Le sue canzoni, in particolare 'Johnny B. Goode', sono diventate parte integrante dell'immaginario cinematografico grazie a film come 'Ritorno al futuro'. Il cinema ha spesso utilizzato la sua musica per evocare l'energia del rock'n'roll delle origini. La sua figura è stata raccontata anche in documentari musicali che ne hanno celebrato l'impatto culturale.",
       "en_long": "On October 18, 1926, Chuck Berry was born. His songs, especially 'Johnny B. Goode,' became integral to cinematic imagery through films like 'Back to the Future.' Cinema has frequently used his music to evoke the energy of early rock and roll. His life and legacy have also been explored in music documentaries celebrating his cultural impact."
+    }
+  ],
+  "10-24": [
+    {
+      "year": 1939,
+      "cat": "birth",
+      "it": "Nasce F. Murray Abraham",
+      "en": "Birth of F. Murray Abraham",
+      "it_d": "Nasce l'attore premio Oscar per il ruolo di Salieri in Amadeus.",
+      "en_d": "Birth of the Oscar-winning actor for playing Salieri in Amadeus.",
+      "it_long": "Il 24 ottobre 1939 nasce F. Murray Abraham a Pittsburgh. Dopo anni di ruoli secondari, ottenne fama internazionale e l'Oscar come miglior attore per l'interpretazione di Antonio Salieri in 'Amadeus' (1984) di Miloš Forman, film che esplora la rivalità artistica tra il compositore italiano e Mozart. Il ruolo resta il più celebre della sua carriera, capace di trasformare radicalmente le sue prospettive professionali.",
+      "en_long": "On October 24, 1939, F. Murray Abraham was born in Pittsburgh. After years of supporting roles, he gained international fame and the Academy Award for Best Actor for his portrayal of Antonio Salieri in Miloš Forman's 'Amadeus' (1984), a film exploring the artistic rivalry between the Italian composer and Mozart. The role remains the most celebrated of his career, radically transforming his professional prospects."
     }
   ],
   "10-28": [
@@ -106,5 +174,17 @@
       "it_long": "Il 28 ottobre 1955 nasce Bill Gates. Sebbene non sia un uomo di cinema, la rivoluzione informatica da lui guidata ha influenzato profondamente anche la produzione e la distribuzione cinematografica digitale. La sua figura è stata oggetto di documentari che esplorano l'impatto della tecnologia sull'industria audiovisiva contemporanea.",
       "en_long": "On October 28, 1955, Bill Gates was born. Although not a film professional, the digital revolution he helped lead has deeply influenced film production and distribution. He has been featured in documentaries exploring the impact of technology on the contemporary audiovisual industry."
     }
+  ],
+  "10-30": [
+    {
+      "year": 1960,
+      "cat": "birth",
+      "it": "Nasce Diego Armando Maradona, soggetto documentaristico",
+      "en": "Birth of Diego Maradona",
+      "it_d": "Nasce il calciatore protagonista del pluripremiato documentario Diego Maradona di Asif Kapadia.",
+      "en_d": "Birth of the footballer, subject of Asif Kapadia's acclaimed documentary Diego Maradona.",
+      "it_long": "Il 30 ottobre 1960 nasce Diego Armando Maradona. La sua vita è stata raccontata nel documentario 'Diego Maradona' (2019) di Asif Kapadia, costruito interamente su materiale d'archivio inedito, nello stile che aveva già reso celebre il regista con 'Senna' e 'Amy'. Il film esplora il rapporto tra genio sportivo e fragilità personale, consolidando Maradona come figura mitologica del cinema documentario sportivo contemporaneo.",
+      "en_long": "On October 30, 1960, Diego Armando Maradona was born. His life was chronicled in Asif Kapadia's documentary 'Diego Maradona' (2019), built entirely from unseen archival footage, in the style that had already made the director famous with 'Senna' and 'Amy.' The film explores the relationship between sporting genius and personal fragility, cementing Maradona as a mythological figure in contemporary sports documentary cinema."
+    }
   ]
-} 
+}
