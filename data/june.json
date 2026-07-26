@@ -33,6 +33,18 @@
       "en_long": "On June 3, 1922, Alain Resnais was born. Regarded as one of the most innovative filmmakers of French cinema, Resnais explored memory and time through fragmented and experimental narrative structures. 'Hiroshima mon amour' (1959) and 'Last Year at Marienbad' (1961) are milestones of cinematic modernity, blending literature, philosophy, and imagery in a radical way. Though often linked to the French New Wave, he maintained a personal and rigorous style that deeply influenced European auteur cinema."
     }
   ],
+  "6-5": [
+    {
+      "year": 1898,
+      "cat": "birth",
+      "it": "Nasce Federico García Lorca, autore adattato al cinema",
+      "en": "Birth of Federico García Lorca",
+      "it_d": "Nasce il poeta e drammaturgo spagnolo le cui opere teatrali sono state adattate più volte al cinema.",
+      "en_d": "Birth of the Spanish poet and playwright whose plays have been repeatedly adapted for film.",
+      "it_long": "Il 5 giugno 1898 nasce Federico García Lorca. Le sue opere teatrali, tra cui 'La casa di Bernarda Alba' e 'Nozze di sangue', sono state adattate numerose volte per il cinema, in particolare da registi spagnoli e latinoamericani interessati a esplorarne i temi di repressione sociale e passione. La sua uccisione durante la guerra civile spagnola nel 1936 ha reso la sua figura oggetto anche di documentari e film biografici.",
+      "en_long": "On June 5, 1898, Federico García Lorca was born. His plays, including 'The House of Bernarda Alba' and 'Blood Wedding,' have been adapted for film numerous times, particularly by Spanish and Latin American directors interested in exploring their themes of social repression and passion. His killing during the Spanish Civil War in 1936 has also made him the subject of documentaries and biographical films."
+    }
+  ],
   "6-6": [
     {
       "year": 1906,
@@ -43,6 +55,18 @@
       "en_d": "Birth of the director of Some Like It Hot and Sunset Boulevard, master of Hollywood comedy and film noir.",
       "it_long": "Il 22 giugno 1906 nasce Samuel Wilder, noto come Billy Wilder. Emigrato dall'Europa per sfuggire al nazismo, divenne uno dei più brillanti sceneggiatori e registi della storia del cinema americano. Vinse sei Oscar, tra cui miglior film e regia per 'Giorni perduti' e 'L'appartamento'. Con 'Viale del tramonto' realizzò una delle più feroci satire su Hollywood, mentre 'A qualcuno piace caldo' resta una delle commedie più perfette mai girate. Il suo dialogo tagliente e il suo cinismo elegante lo rendono ancora oggi un modello insuperato.",
       "en_long": "On June 22, 1906, Samuel Wilder, known as Billy Wilder, was born. Emigrating from Europe to escape Nazism, he became one of the most brilliant screenwriters and directors in American cinema history. He won six Oscars, including Best Picture and Best Director for 'The Lost Weekend' and 'The Apartment.' With 'Sunset Boulevard' he delivered one of the fiercest satires on Hollywood, while 'Some Like It Hot' remains one of the most perfect comedies ever made. His sharp dialogue and elegant cynicism still stand as an unmatched model."
+    }
+  ],
+  "6-8": [
+    {
+      "year": 1867,
+      "cat": "birth",
+      "it": "Nasce Frank Lloyd Wright, ispiratore di scenografie cinematografiche",
+      "en": "Birth of Frank Lloyd Wright",
+      "it_d": "Nasce l'architetto le cui opere hanno ispirato scenografie iconiche del cinema di fantascienza.",
+      "en_d": "Birth of the architect whose works inspired iconic set designs in science fiction cinema.",
+      "it_long": "L'8 giugno 1867 nasce Frank Lloyd Wright. Il suo stile architettonico organico ha influenzato direttamente la scenografia cinematografica, in particolare la casa di Ennis a Los Angeles, utilizzata come location in film come 'Blade Runner' (1982) di Ridley Scott. Il suo linguaggio visivo continua a essere un riferimento per scenografi che cercano estetiche futuristiche o inquietanti.",
+      "en_long": "On June 8, 1867, Frank Lloyd Wright was born. His organic architectural style directly influenced film set design, particularly the Ennis House in Los Angeles, used as a location in Ridley Scott's 'Blade Runner' (1982). His visual language continues to be a reference point for set designers seeking futuristic or unsettling aesthetics."
     }
   ],
   "6-9": [
@@ -83,7 +107,7 @@
   ],
   "6-15": [
     {
-      "year": 1962,
+      "year": 1954,
       "cat": "birth",
       "it": "Nasce Jim Belushi",
       "en": "Birth of Jim Belushi",
@@ -91,6 +115,16 @@
       "en_d": "Birth of the American actor and comedian who starred in numerous film comedies of the 1980s and 1990s.",
       "it_long": "Il 15 giugno 1954 nasce Jim Belushi, fratello minore di John Belushi. Dopo la morte prematura del fratello, riuscì a costruire una carriera autonoma tra cinema e televisione, diventando protagonista di commedie popolari come 'Danko', 'Una poltrona per due' e 'K-9 - Un poliziotto a 4 zampe'. Il suo stile comico, più misurato rispetto a quello esplosivo di John, lo ha reso una presenza costante nel cinema commerciale americano tra anni '80 e '90.",
       "en_long": "On June 15, 1954, Jim Belushi was born, the younger brother of John Belushi. After his brother's premature death, he managed to build an independent career in film and television, starring in popular comedies such as 'Red Heat,' 'Trading Places,' and 'K-9.' His comedic style, more measured than his brother's explosive energy, made him a consistent presence in American commercial cinema during the 1980s and 1990s."
+    },
+    {
+      "year": 1922,
+      "cat": "birth",
+      "it": "Nasce Madeleine Sherwood",
+      "en": "Birth of Madeleine Sherwood",
+      "it_d": "Nasce l'attrice canadese nota per il ruolo della perfida Mae ne La gatta sul tetto che scotta di Richard Brooks.",
+      "en_d": "Birth of the Canadian actress known for her role as the conniving Mae in Richard Brooks's Cat on a Hot Tin Roof.",
+      "it_long": "Il 15 giugno 1922 nasce Madeleine Sherwood, attrice di formazione teatrale che portò la sua esperienza di palcoscenico al cinema con risultati notevoli. È ricordata soprattutto per il ruolo di Mae in 'La gatta sul tetto che scotta' (1958), adattamento del dramma di Tennessee Williams diretto da Richard Brooks, dove condivise lo schermo con Paul Newman e Elizabeth Taylor. La sua carriera cinematografica, pur non lunghissima, la vide lavorare in produzioni di grande prestigio, confermando la sua reputazione di interprete di carattere di prima classe.",
+      "en_long": "On June 15, 1922, Madeleine Sherwood was born, a theater-trained actress who brought her stage experience to cinema with notable results. She is best remembered for the role of Mae in 'Cat on a Hot Tin Roof' (1958), an adaptation of Tennessee Williams's drama directed by Richard Brooks, where she shared the screen with Paul Newman and Elizabeth Taylor. Her film career, though not extensive, saw her work in productions of great prestige, confirming her reputation as a first-rate character actress."
     }
   ],
   "6-22": [
@@ -129,5 +163,4 @@
       "en_long": "On June 30, 1971, Monica Potter was born. After beginning as a model and television actress, she transitioned to film in the 1990s, appearing in commercially successful productions such as 'Con Air' and 'Patch Adams.' Though she never became a major star, she has maintained a steady career across film and television, representing the group of performers who contribute to the solidity of mainstream American cinema."
     }
   ]
-} 
-
+}
