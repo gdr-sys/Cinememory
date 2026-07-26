@@ -1,0 +1,134 @@
+{
+  "12-1": [
+    {
+      "year": 1935,
+      "cat": "birth",
+      "it": "Woody Allen",
+      "en": "Woody Allen",
+      "it_d": "Nasce a Brooklyn uno dei registi più prolifici del cinema, maestro della commedia intellettuale e nevrotica.",
+      "en_d": "Born in Brooklyn, one of cinema's most prolific directors and a master of intellectual and neurotic comedy.",
+      "it_long": "Allen Stewart Konigsberg, noto come Woody Allen, ha ridefinito il cinema americano trasformando le sue ossessioni per la psicanalisi, la morte e il sesso in capolavori come 'Io e Annie' e 'Manhattan'. Con oltre cinquanta film all'attivo, ha creato un genere unico che fonde l'umorismo slapstick con la filosofia esistenziale e la celebrazione visiva di città come New York, Parigi e Roma. Detentore del record per il maggior numero di nomination alla migliore sceneggiatura originale agli Oscar, Allen è rimasto fedele alla sua visione autoriale, mantenendo un controllo creativo quasi totale sulle sue opere e influenzando generazioni di sceneggiatori con i suoi dialoghi brillanti e serrati.",
+      "en_long": "Allen Stewart Konigsberg, better known as Woody Allen, redefined American cinema by transforming his obsessions with psychoanalysis, death, and sex into masterpieces like 'Annie Hall' and 'Manhattan'. With over fifty films to his credit, he created a unique genre that blends slapstick humor with existential philosophy and the visual celebration of cities like New York, Paris, and Rome. Holding the record for the most Academy Award nominations for Best Original Screenplay, Allen has remained loyal to his auteur vision, maintaining near-total creative control over his works and influencing generations of screenwriters with his brilliant, fast-paced dialogue."
+    },
+    {
+      "year": 1940,
+      "cat": "birth",
+      "it": "Richard Pryor",
+      "en": "Richard Pryor",
+      "it_d": "Nasce il comico che ha rivoluzionato la stand-up comedy, influenzando il cinema con il suo stile crudo e geniale.",
+      "en_d": "Born the comedian who revolutionized stand-up comedy, influencing cinema with his raw and brilliant style.",
+      "it_long": "Richard Pryor è considerato uno dei più grandi comici di tutti i tempi, la cui influenza si è estesa profondamente al grande schermo. Celebre per le sue collaborazioni con Gene Wilder in film come 'Nessuno ci può fermare' e 'Non guardarmi: non ti sento', Pryor ha portato nel cinema un'energia comica basata sull'osservazione sociale e sull'autoironia spesso brutale. Oltre alla recitazione, è stato un importante sceneggiatore, contribuendo alla scrittura di cult come 'Mezzogiorno e mezzo di fuoco' di Mel Brooks. La sua capacità di mescolare tragedia personale e satira razziale ha aperto la strada a una nuova narrazione afroamericana nella Hollywood commerciale.",
+      "en_long": "Richard Pryor is considered one of the greatest comedians of all time, and his influence extended deeply to the big screen. Famous for his collaborations with Gene Wilder in films like 'Stir Crazy' and 'See No Evil, Hear No Evil', Pryor brought a comic energy to cinema based on social observation and often brutal self-deprecation. Beyond acting, he was an important screenwriter, contributing to the script of cult classics like Mel Brooks' 'Blazing Saddles'. His ability to mix personal tragedy and racial satire paved the way for a new African-American narrative in mainstream Hollywood."
+    }
+  ],
+  "12-3": [
+    {
+      "year": 1930,
+      "cat": "birth",
+      "it": "Jean-Luc Godard",
+      "en": "Jean-Luc Godard",
+      "it_d": "Nasce il rivoluzionario della Nouvelle Vague, l'uomo che ha riscritto le regole del linguaggio filmico.",
+      "en_d": "Born the revolutionary of the Nouvelle Vague, the man who rewrote the rules of film language.",
+      "it_long": "Jean-Luc Godard è stato il cuore pulsante della Nouvelle Vague francese. Con il suo debutto 'Fino all'ultimo respiro' (1960), ha scardinato la narrazione classica introducendo il montaggio discontinuo (jump cut) e infrangendo la quarta parete. Critico dei 'Cahiers du Cinéma' prima che regista, Godard ha usato la cinepresa come uno strumento politico e filosofico, esplorando la natura delle immagini e del suono. La sua carriera, durata oltre sessant'anni, è stata una sfida costante alle convenzioni commerciali, rendendolo uno dei teorici e creatori più radicali della storia, capace di influenzare registi come Tarantino, Scorsese e Bertolucci.",
+      "en_long": "Jean-Luc Godard was the beating heart of the French New Wave. With his debut 'Breathless' (1960), he dismantled classical storytelling by introducing discontinuous editing (jump cuts) and breaking the fourth wall. A critic for 'Cahiers du Cinéma' before becoming a director, Godard used the camera as a political and philosophical tool, exploring the nature of images and sound. His career, spanning over sixty years, was a constant challenge to commercial conventions, making him one of the most radical theorists and creators in history, influencing directors like Tarantino, Scorsese, and Bertolucci."
+    },
+    {
+      "year": 1976,
+      "cat": "release",
+      "it": "Rocky",
+      "en": "Rocky",
+      "it_d": "Debutta nei cinema americani la saga dello stallone italiano, scritta e interpretata da un allora ignoto Sylvester Stallone.",
+      "en_d": "The saga of the Italian Stallion, written by and starring a then-unknown Sylvester Stallone, debuts in US theaters.",
+      "it_long": "Presentato in anteprima a New York, 'Rocky' non fu solo un successo commerciale, ma un miracolo produttivo. Sylvester Stallone, all'epoca attore squattrinato, scrisse la sceneggiatura in tre giorni e rifiutò di venderla a meno che non gli fosse permesso di interpretare il protagonista. Il film, diretto da John G. Avildsen, vinse tre premi Oscar tra cui Miglior Film e Miglior Regia, trasformando Stallone in una star globale. La pellicola è celebrata per la sua colonna sonora iconica di Bill Conti e per aver codificato la struttura del 'underdog story' sportivo, diventando un simbolo di resilienza e riscatto sociale nel cinema americano.",
+      "en_long": "Premiering in New York, 'Rocky' was not just a commercial success but a production miracle. Sylvester Stallone, a penniless actor at the time, wrote the script in three days and refused to sell it unless he was allowed to play the lead. The film, directed by John G. Avildsen, won three Oscars including Best Picture and Best Director, turning Stallone into a global star. The movie is celebrated for Bill Conti's iconic soundtrack and for codifying the structure of the sports 'underdog story', becoming a symbol of resilience and social redemption in American cinema."
+    }
+  ],
+  "12-5": [
+    {
+      "year": 1901,
+      "cat": "birth",
+      "it": "Walt Disney",
+      "en": "Walt Disney",
+      "it_d": "Nasce il pioniere dell'animazione e fondatore dell'impero cinematografico che porta il suo nome.",
+      "en_d": "Born the animation pioneer and founder of the cinematic empire that bears his name.",
+      "it_long": "Walter Elias Disney ha trasformato il cinema d'animazione da semplice curiosità tecnica a una forma d'arte di massa. Con la creazione di Topolino e la produzione del primo lungometraggio animato sonoro e a colori, 'Biancaneve e i sette nani' (1937), ha gettato le basi per l'industria moderna dell'intrattenimento. Disney è l'individuo che ha vinto il maggior numero di premi Oscar (22 competitivi e 4 onorari), un record tuttora imbattuto. Il suo contributo tecnologico, dallo sviluppo della cinepresa multipiano all'integrazione tra animazione e live-action, ha segnato tappe fondamentali nell'evoluzione degli effetti visivi e della narrazione fantastica sul grande schermo.",
+      "en_long": "Walter Elias Disney transformed animated cinema from a simple technical curiosity into a mass art form. With the creation of Mickey Mouse and the production of the first sound and color animated feature, 'Snow White and the Seven Dwarfs' (1937), he laid the foundation for the modern entertainment industry. Disney holds the record for the most Academy Awards won by an individual (22 competitive and 4 honorary). His technological contributions, from the development of the multiplane camera to the integration of animation and live-action, marked fundamental milestones in the evolution of visual effects and fantasy storytelling on the big screen."
+    },
+    {
+      "year": 1890,
+      "cat": "birth",
+      "it": "Fritz Lang",
+      "en": "Fritz Lang",
+      "it_d": "Nasce il visionario regista di 'Metropolis', gigante dell'espressionismo tedesco e del genere noir.",
+      "en_d": "Born the visionary director of 'Metropolis', a giant of German Expressionism and the noir genre.",
+      "it_long": "Figura cardine del cinema mondiale, Fritz Lang ha plasmato l'estetica della fantascienza con 'Metropolis' (1927) e del thriller psicologico con 'M - Il mostro di Düsseldorf' (1931). Fuggito dalla Germania nazista, ha proseguito la carriera a Hollywood, diventando uno dei maestri del genere noir grazie al suo stile visivo rigoroso, fatto di ombre profonde e composizioni geometriche che riflettevano il tormento morale dei suoi personaggi. La sua capacità di utilizzare la macchina da presa per esplorare la paranoia e la colpa ha influenzato profondamente il cinema moderno, da Alfred Hitchcock a Ridley Scott, consolidando il suo ruolo di architetto dell'immagine cinematografica.",
+      "en_long": "A pivotal figure in world cinema, Fritz Lang shaped the aesthetics of science fiction with 'Metropolis' (1927) and the psychological thriller with 'M' (1931). Fleeing Nazi Germany, he continued his career in Hollywood, becoming one of the masters of the film noir genre thanks to his rigorous visual style, made of deep shadows and geometric compositions that reflected his characters' moral torment. His ability to use the camera to explore paranoia and guilt deeply influenced modern cinema, from Alfred Hitchcock to Ridley Scott, cementing his role as an architect of the cinematic image."
+    }
+  ],
+  "12-15": [
+    {
+      "year": 1939,
+      "cat": "release",
+      "it": "Via col vento",
+      "en": "Gone with the Wind",
+      "it_d": "Premiere mondiale ad Atlanta per il colossale dramma epico, uno dei film di maggior successo di sempre.",
+      "en_d": "World premiere in Atlanta for the colossal epic drama, one of the most successful films of all time.",
+      "it_long": "Diretto ufficialmente da Victor Fleming ma frutto della visione ossessiva del produttore David O. Selznick, 'Via col vento' debuttò il 15 dicembre 1939 ad Atlanta, trasformando la città in un evento mediatico senza precedenti. Il film stabilì nuovi standard per l'uso del Technicolor e per l'imponenza delle scenografie. Vinse otto Oscar competitivi, tra cui quello a Hattie McDaniel, la prima persona afroamericana a ricevere la statuetta. Nonostante le controversie moderne sulla rappresentazione della Guerra Civile, resta un pilastro tecnico della storia del cinema e, se calcolato con l'inflazione, il film con il più alto incasso di tutti i tempi.",
+      "en_long": "Officially directed by Victor Fleming but resulting from producer David O. Selznick's obsessive vision, 'Gone with the Wind' debuted on December 15, 1939, in Atlanta, turning the city into an unprecedented media event. The film set new standards for the use of Technicolor and the scale of its production design. It won eight competitive Oscars, including one for Hattie McDaniel, the first African-American person to receive the award. Despite modern controversies over its depiction of the Civil War, it remains a technical pillar of cinema history and, when adjusted for inflation, the highest-grossing film of all time."
+    },
+    {
+      "year": 1993,
+      "cat": "release",
+      "it": "Schindler's List",
+      "en": "Schindler's List",
+      "it_d": "Esce nelle sale il capolavoro di Steven Spielberg sull'Olocausto, vincitore di 7 premi Oscar.",
+      "en_d": "Steven Spielberg's masterpiece on the Holocaust, winner of 7 Oscars, is released in theaters.",
+      "it_long": "Con 'Schindler's List', Steven Spielberg ha raggiunto la sua piena maturità artistica, allontanandosi temporaneamente dal cinema d'intrattenimento puro per documentare l'orrore della Shoah. Girato quasi interamente in un bianco e nero crudo e documentaristico dal direttore della fotografia Janusz Kaminski, il film racconta la storia vera di Oskar Schindler. La scelta di non usare lo stile 'hollywoodiano' tradizionale e l'intensità delle interpretazioni di Liam Neeson e Ralph Fiennes hanno reso la pellicola un'opera fondamentale per la memoria storica collettiva. Il film ha trionfato agli Oscar, segnando la prima vittoria di Spielberg come Miglior Regista.",
+      "en_long": "With 'Schindler's List', Steven Spielberg reached his full artistic maturity, temporarily stepping away from pure blockbuster entertainment to document the horror of the Shoah. Shot almost entirely in a raw, documentary-style black and white by cinematographer Janusz Kaminski, the film tells the true story of Oskar Schindler. The choice to avoid traditional 'Hollywood' style and the intense performances by Liam Neeson and Ralph Fiennes made the film a fundamental work for collective historical memory. The film triumphed at the Oscars, marking Spielberg's first win for Best Director."
+    }
+  ],
+  "12-18": [
+    {
+      "year": 1946,
+      "cat": "birth",
+      "it": "Steven Spielberg",
+      "en": "Steven Spielberg",
+      "it_d": "Nasce il 'Re di Hollywood', regista che ha inventato il concetto di blockbuster moderno.",
+      "en_d": "Born the 'King of Hollywood', the director who invented the concept of the modern blockbuster.",
+      "it_long": "Steven Spielberg è probabilmente il regista più influente della sua generazione. Ha cambiato la storia del business cinematografico con 'Lo squalo' (1975), il primo vero blockbuster estivo, e ha continuato a definire l'immaginario collettivo con titoli come 'E.T.', 'Indiana Jones' e 'Jurassic Park'. Capace di passare con disinvoltura dal cinema fantastico a quello di impegno civile ('Munich', 'Lincoln'), Spielberg ha perfezionato un linguaggio visivo basato sulla meraviglia e sul movimento coreografico della macchina da presa, diventando un modello di riferimento per chiunque voglia raccontare storie attraverso le immagini.",
+      "en_long": "Steven Spielberg is arguably the most influential director of his generation. He changed the history of the film business with 'Jaws' (1975), the first true summer blockbuster, and continued to define the collective imagination with titles like 'E.T.', 'Indiana Jones', and 'Jurassic Park'. Able to transition seamlessly from fantasy to social commitment cinema ('Munich', 'Lincoln'), Spielberg perfected a visual language based on wonder and choreographed camera movement, becoming a reference model for anyone wanting to tell stories through images."
+    },
+    {
+      "year": 1963,
+      "cat": "birth",
+      "it": "Brad Pitt",
+      "en": "Brad Pitt",
+      "it_d": "Nasce una delle ultime grandi icone del cinema, capace di unire fascino da star e talento da caratterista.",
+      "en_d": "Born one of the last great icons of cinema, combining star appeal with character actor talent.",
+      "it_long": "William Bradley Pitt è emerso come sex symbol in 'Thelma & Louise' per poi dimostrare una versatilità straordinaria lavorando con i più grandi autori contemporanei. Da 'Fight Club' di David Fincher a 'C'era una volta a... Hollywood' di Quentin Tarantino (che gli è valso l'Oscar come attore non protagonista), Pitt ha spesso scelto ruoli complessi e non convenzionali. Come produttore con la sua Plan B Entertainment, ha sostenuto film di alto valore artistico e sociale come '12 anni schiavo' e 'Moonlight', entrambi vincitori dell'Oscar come Miglior Film, consolidando la sua posizione di figura chiave dell'industria cinematografica oltre la recitazione.",
+      "en_long": "William Bradley Pitt emerged as a sex symbol in 'Thelma & Louise' before demonstrating extraordinary versatility working with the greatest contemporary auteurs. From David Fincher's 'Fight Club' to Quentin Tarantino's 'Once Upon a Time in Hollywood' (earning him an Oscar for Best Supporting Actor), Pitt has often chosen complex and unconventional roles. As a producer with his Plan B Entertainment, he has supported high artistic and social value films like '12 Years a Slave' and 'Moonlight', both Oscar Best Picture winners, cementing his position as a key industry figure beyond acting."
+    },
+    {
+      "year": 2009,
+      "cat": "release",
+      "it": "Avatar",
+      "en": "Avatar",
+      "it_d": "Esce negli USA il film di James Cameron che ha rivoluzionato il 3D e il motion capture.",
+      "en_d": "James Cameron's film, which revolutionized 3D and motion capture, is released in the US.",
+      "it_long": "Dopo oltre un decennio di attesa per lo sviluppo delle tecnologie necessarie, James Cameron ha rilasciato 'Avatar', cambiando per sempre l'integrazione tra attori reali e mondi digitali. Il film ha introdotto l'uso di cineprese stereoscopiche avanzate e tecniche di 'performance capture' capaci di catturare le minime sfumature espressive degli attori. Nonostante le critiche sulla semplicità della trama, l'impatto visivo su Pandora ha stabilito un nuovo benchmark per gli effetti visivi della Weta Digital. È diventato il film con il più alto incasso della storia, mantenendo il primato per quasi un decennio prima di una breve alternanza con i titoli Marvel.",
+      "en_long": "After over a decade of waiting for the development of necessary technology, James Cameron released 'Avatar', forever changing the integration of real actors and digital worlds. The film introduced the use of advanced stereoscopic cameras and 'performance capture' techniques capable of capturing the smallest expressive nuances of the actors. Despite criticisms of plot simplicity, the visual impact of Pandora set a new benchmark for visual effects by Weta Digital. It became the highest-grossing film in history, holding the record for nearly a decade before a brief rotation with Marvel titles."
+    }
+  ],
+  "12-28": [
+    {
+      "year": 1895,
+      "cat": "historic",
+      "it": "Prima proiezione pubblica dei Lumière",
+      "en": "First Lumière public screening",
+      "it_d": "Al Salon Indien del Grand Café di Parigi nasce ufficialmente il cinema come lo conosciamo.",
+      "en_d": "At the Salon Indien of the Grand Café in Paris, cinema as we know it was officially born.",
+      "it_long": "Il 28 dicembre 1895 è considerata la data di nascita convenzionale del cinema. I fratelli Auguste e Louis Lumière organizzarono la prima proiezione pubblica a pagamento utilizzando il loro Cinématographe. Tra i dieci brevi film proiettati c'era 'L'uscita dalle officine Lumière'. Contrariamente al Kinetoscopio di Edison, che era una visione individuale, il sistema Lumière permetteva la visione collettiva su uno schermo, creando l'esperienza sociale della sala cinematografica. Si racconta che gli spettatori fossero così impressionati dal realismo delle immagini in movimento da restare pietrificati o tentare di fuggire davanti alla famosa scena dell'arrivo del treno.",
+      "en_long": "December 28, 1895, is considered the conventional birth date of cinema. The brothers Auguste and Louis Lumière organized the first public paid screening using their Cinématographe. Among the ten short films shown was 'Workers Leaving the Lumière Factory'. Unlike Edison's Kinetoscope, which was for individual viewing, the Lumière system allowed for collective viewing on a screen, creating the social experience of the movie theater. Legend has it that spectators were so impressed by the realism of the moving images that they were petrified or even tried to flee during the famous scene of the train arriving at the station."
+    }
+  ]
+} 
