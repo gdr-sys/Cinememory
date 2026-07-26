@@ -1,0 +1,936 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CineMemory - Accadde oggi nella storia del cinema</title>
+<meta name="description" content="Scopri cosa è successo oggi nella storia del cinema: nascite, uscite di film, eventi storici, invenzioni e curiosità.">
+<meta name="author" content="Noemi Marcolini">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700;800;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+ --gold: #D4A843;
+ --gold-light: #F0D68A;
+ --gold-dark: #B8912E;
+ --bg-dark: #0A0A0F;
+ --bg-card: #12121A;
+ --bg-card-hover: #1A1A25;
+ --text-primary: #F5F5F7;
+ --text-secondary: #A0A0B0;
+ --text-muted: #6B6B7B;
+ --cat-birth: #E67E22;
+ --cat-release: #3498DB;
+ --cat-historic: #9B59B6;
+ --cat-curiosity: #2ECC71;
+ --cat-invention: #E74C3C;
+ --cat-award: #D4A843;
+}
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body {
+ font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+ background: var(--bg-dark);
+ color: var(--text-primary);
+ min-height: 100vh;
+ overflow-x: hidden;
+}
+.header {
+ position: sticky;
+ top: 0;
+ z-index: 100;
+ background: rgba(10,10,15,0.95);
+ backdrop-filter: blur(20px);
+ border-bottom: 1px solid rgba(212,168,67,0.15);
+ padding: 0.75rem 0;
+}
+.header-inner {
+ max-width: 1280px;
+ margin: 0 auto;
+ padding: 0 1.5rem;
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ flex-wrap: wrap;
+ gap: 1rem;
+}
+.logo {
+ display: flex;
+ align-items: center;
+ gap: 0.6rem;
+ text-decoration: none;
+ cursor: pointer;
+}
+.logo svg { width: 40px; height: 40px; }
+.logo-text {
+ font-family: 'Playfair Display', serif;
+ font-size: 1.7rem;
+ font-weight: 800;
+ color: var(--gold);
+ letter-spacing: 1px;
+}
+.logo-sub {
+ font-size: 0.65rem;
+ color: var(--text-muted);
+ text-transform: uppercase;
+ letter-spacing: 2px;
+ font-weight: 500;
+}
+.header-actions {
+ display: flex;
+ align-items: center;
+ gap: 1rem;
+}
+.lang-toggle {
+ display: flex;
+ background: rgba(255,255,255,0.05);
+ border-radius: 8px;
+ overflow: hidden;
+ border: 1px solid rgba(255,255,255,0.08);
+}
+.lang-btn {
+ padding: 0.4rem 0.75rem;
+ background: none;
+ border: none;
+ color: var(--text-muted);
+ font-size: 0.8rem;
+ font-weight: 600;
+ cursor: pointer;
+ transition: all 0.3s;
+ font-family: 'Inter', sans-serif;
+}
+.lang-btn.active {
+ background: var(--gold);
+ color: var(--bg-dark);
+}
+.date-nav {
+ display: flex;
+ align-items: center;
+ gap: 0.5rem;
+}
+.nav-arrow {
+ background: rgba(255,255,255,0.05);
+ border: 1px solid rgba(255,255,255,0.1);
+ border-radius: 8px;
+ padding: 0.5rem;
+ cursor: pointer;
+ color: var(--text-secondary);
+ transition: all 0.3s;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+}
+.nav-arrow:hover {
+ background: rgba(212,168,67,0.15);
+ border-color: var(--gold);
+ color: var(--gold);
+}
+.nav-arrow svg { width: 20px; height: 20px; }
+.today-btn {
+ background: var(--gold);
+ color: var(--bg-dark);
+ border: none;
+ border-radius: 8px;
+ padding: 0.5rem 1rem;
+ font-size: 0.8rem;
+ font-weight: 600;
+ cursor: pointer;
+ font-family: 'Inter', sans-serif;
+ transition: all 0.3s;
+}
+.today-btn:hover { background: var(--gold-light); }
+.hero {
+ text-align: center;
+ padding: 3rem 1.5rem 2rem;
+ position: relative;
+ overflow: hidden;
+}
+.hero::before {
+ content: '';
+ position: absolute;
+ top: -50%;
+ left: 50%;
+ transform: translateX(-50%);
+ width: 700px;
+ height: 700px;
+ background: radial-gradient(circle, rgba(212,168,67,0.08) 0%, transparent 70%);
+ pointer-events: none;
+}
+.hero-icon {
+ margin-bottom: 1rem;
+}
+.hero-icon svg {
+ width: 60px;
+ height: 60px;
+ opacity: 0.7;
+}
+.hero-date {
+ font-family: 'Playfair Display', serif;
+ font-size: 3.8rem;
+ font-weight: 900;
+ color: var(--gold);
+ margin-bottom: 0.3rem;
+ line-height: 1.1;
+ position: relative;
+}
+.hero-year {
+ font-size: 1.1rem;
+ color: var(--text-muted);
+ font-weight: 400;
+ margin-bottom: 0.5rem;
+}
+.hero-subtitle {
+ font-size: 1rem;
+ color: var(--text-secondary);
+ font-weight: 400;
+}
+.stats-bar {
+ display: flex;
+ justify-content: center;
+ gap: 2rem;
+ margin-top: 1.5rem;
+ flex-wrap: wrap;
+}
+.stat-item {
+ text-align: center;
+}
+.stat-num {
+ font-size: 1.8rem;
+ font-weight: 700;
+ color: var(--gold);
+ font-family: 'Playfair Display', serif;
+}
+.stat-label {
+ font-size: 0.7rem;
+ color: var(--text-muted);
+ text-transform: uppercase;
+ letter-spacing: 1px;
+}
+.filters-section {
+ max-width: 1280px;
+ margin: 0 auto;
+ padding: 0 1.5rem 1.5rem;
+}
+.search-wrapper {
+ max-width: 450px;
+ margin: 0 auto 1.25rem;
+ position: relative;
+}
+.search-input {
+ width: 100%;
+ padding: 0.7rem 1rem 0.7rem 2.75rem;
+ background: rgba(255,255,255,0.04);
+ border: 1px solid rgba(255,255,255,0.08);
+ border-radius: 12px;
+ color: var(--text-primary);
+ font-family: 'Inter', sans-serif;
+ font-size: 0.9rem;
+ outline: none;
+ transition: border-color 0.3s;
+}
+.search-input:focus { border-color: rgba(212,168,67,0.4); }
+.search-input::placeholder { color: var(--text-muted); }
+.search-icon {
+ position: absolute;
+ left: 0.9rem;
+ top: 50%;
+ transform: translateY(-50%);
+ color: var(--text-muted);
+ pointer-events: none;
+}
+.search-icon svg { width: 18px; height: 18px; }
+.filters-grid {
+ display: flex;
+ flex-wrap: wrap;
+ gap: 0.6rem;
+ justify-content: center;
+}
+.filter-btn {
+ display: flex;
+ align-items: center;
+ gap: 0.5rem;
+ padding: 0.55rem 1.1rem;
+ border-radius: 10px;
+ border: 1px solid rgba(255,255,255,0.08);
+ background: rgba(255,255,255,0.03);
+ color: var(--text-secondary);
+ font-size: 0.82rem;
+ font-weight: 500;
+ cursor: pointer;
+ transition: all 0.3s ease;
+ font-family: 'Inter', sans-serif;
+}
+.filter-btn svg { width: 18px; height: 18px; flex-shrink: 0; }
+.filter-btn:hover {
+ background: rgba(255,255,255,0.06);
+ border-color: rgba(255,255,255,0.15);
+}
+.filter-btn.active {
+ border-color: var(--filter-color, var(--gold));
+ background: rgba(255,255,255,0.06);
+ color: var(--text-primary);
+}
+.filter-btn.active .filter-dot { opacity: 1; }
+.filter-dot {
+ width: 8px;
+ height: 8px;
+ border-radius: 50%;
+ opacity: 0.4;
+ transition: opacity 0.3s;
+}
+.filter-count {
+ font-size: 0.7rem;
+ background: rgba(255,255,255,0.08);
+ padding: 0.1rem 0.45rem;
+ border-radius: 6px;
+ color: var(--text-muted);
+ font-weight: 600;
+}
+.events-section {
+ max-width: 1280px;
+ margin: 0 auto;
+ padding: 0 1.5rem 3rem;
+}
+.events-grid {
+ display: grid;
+ grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+ gap: 1rem;
+}
+.event-card {
+ background: var(--bg-card);
+ border: 1px solid rgba(255,255,255,0.06);
+ border-radius: 14px;
+ padding: 1.4rem;
+ cursor: pointer;
+ transition: all 0.35s ease;
+ position: relative;
+ overflow: hidden;
+}
+.event-card::before {
+ content: '';
+ position: absolute;
+ top: 0;
+ left: 0;
+ right: 0;
+ height: 3px;
+ background: var(--card-accent, var(--gold));
+ opacity: 0;
+ transition: opacity 0.3s;
+}
+.event-card:hover {
+ background: var(--bg-card-hover);
+ border-color: rgba(255,255,255,0.1);
+ transform: translateY(-3px);
+ box-shadow: 0 12px 40px rgba(0,0,0,0.4);
+}
+.event-card:hover::before { opacity: 1; }
+.card-header {
+ display: flex;
+ align-items: flex-start;
+ gap: 0.85rem;
+ margin-bottom: 0.85rem;
+}
+.card-icon {
+ width: 44px;
+ height: 44px;
+ min-width: 44px;
+ border-radius: 10px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: rgba(255,255,255,0.04);
+}
+.card-icon svg { width: 22px; height: 22px; }
+.card-meta { flex: 1; }
+.card-category {
+ font-size: 0.7rem;
+ font-weight: 600;
+ text-transform: uppercase;
+ letter-spacing: 1.5px;
+ margin-bottom: 0.25rem;
+}
+.card-year {
+ font-size: 0.85rem;
+ color: var(--text-muted);
+ font-weight: 500;
+}
+.card-title {
+ font-family: 'Playfair Display', serif;
+ font-size: 1.15rem;
+ font-weight: 700;
+ line-height: 1.35;
+ margin-bottom: 0.6rem;
+ color: var(--text-primary);
+}
+.card-desc {
+ font-size: 0.85rem;
+ color: var(--text-secondary);
+ line-height: 1.6;
+ display: -webkit-box;
+ -webkit-line-clamp: 3;
+ -webkit-box-orient: vertical;
+ overflow: hidden;
+}
+.card-more {
+ margin-top: 0.6rem;
+ font-size: 0.75rem;
+ font-weight: 600;
+ color: var(--gold);
+ opacity: 0.85;
+}
+.modal-overlay {
+ position: fixed;
+ inset: 0;
+ background: rgba(0,0,0,0.85);
+ backdrop-filter: blur(10px);
+ z-index: 200;
+ display: none;
+ align-items: center;
+ justify-content: center;
+ padding: 1.5rem;
+}
+.modal-overlay.active { display: flex; }
+.modal {
+ background: var(--bg-card);
+ border: 1px solid rgba(255,255,255,0.1);
+ border-radius: 20px;
+ max-width: 620px;
+ width: 100%;
+ max-height: 85vh;
+ overflow-y: auto;
+ padding: 2.5rem;
+ position: relative;
+ animation: modalIn 0.3s ease;
+}
+@keyframes modalIn {
+ from { opacity: 0; transform: scale(0.95) translateY(20px); }
+ to { opacity: 1; transform: scale(1) translateY(0); }
+}
+.modal-close {
+ position: absolute;
+ top: 1rem;
+ right: 1rem;
+ background: rgba(255,255,255,0.06);
+ border: none;
+ border-radius: 8px;
+ width: 38px;
+ height: 38px;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ cursor: pointer;
+ color: var(--text-muted);
+ transition: all 0.3s;
+}
+.modal-close:hover {
+ background: rgba(255,255,255,0.1);
+ color: var(--text-primary);
+}
+.modal-close svg { width: 18px; height: 18px; }
+.modal-cat {
+ display: inline-flex;
+ align-items: center;
+ gap: 0.4rem;
+ font-size: 0.72rem;
+ font-weight: 600;
+ text-transform: uppercase;
+ letter-spacing: 1.5px;
+ margin-bottom: 0.75rem;
+ padding: 0.35rem 0.85rem;
+ border-radius: 6px;
+ background: rgba(255,255,255,0.04);
+}
+.modal-cat svg { width: 16px; height: 16px; }
+.modal-year {
+ font-size: 0.95rem;
+ color: var(--text-muted);
+ margin-bottom: 0.5rem;
+}
+.modal-title {
+ font-family: 'Playfair Display', serif;
+ font-size: 1.85rem;
+ font-weight: 800;
+ line-height: 1.3;
+ margin-bottom: 1.25rem;
+}
+.modal-desc {
+ font-size: 1rem;
+ color: var(--text-secondary);
+ line-height: 1.85;
+ white-space: pre-line;
+}
+.footer {
+ border-top: 1px solid rgba(255,255,255,0.06);
+ padding: 2.5rem 1.5rem;
+ text-align: center;
+}
+.footer-inner { max-width: 600px; margin: 0 auto; }
+.footer-brand {
+ font-family: 'Playfair Display', serif;
+ font-size: 1.4rem;
+ font-weight: 700;
+ color: var(--gold);
+ margin-bottom: 0.75rem;
+}
+.footer-desc {
+ font-size: 0.85rem;
+ color: var(--text-muted);
+ line-height: 1.6;
+ margin-bottom: 1.25rem;
+}
+.footer-links {
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ gap: 1.5rem;
+ margin-bottom: 1rem;
+ flex-wrap: wrap;
+}
+.footer-link {
+ display: flex;
+ align-items: center;
+ gap: 0.4rem;
+ color: var(--text-secondary);
+ text-decoration: none;
+ font-size: 0.85rem;
+ font-weight: 500;
+ transition: color 0.3s;
+}
+.footer-link:hover { color: var(--gold); }
+.footer-link svg { width: 18px; height: 18px; }
+.footer-copy {
+ font-size: 0.72rem;
+ color: var(--text-muted);
+ margin-top: 1rem;
+}
+.no-results {
+ text-align: center;
+ padding: 4rem 1rem;
+ color: var(--text-muted);
+ grid-column: 1 / -1;
+}
+.no-results svg { width: 60px; height: 60px; opacity: 0.3; margin-bottom: 1rem; }
+.no-results p { font-size: 1rem; }
+.loading {
+ text-align: center;
+ padding: 4rem 1rem;
+ color: var(--text-muted);
+ grid-column: 1 / -1;
+}
+.loading-spinner {
+ width: 40px;
+ height: 40px;
+ border: 3px solid rgba(212,168,67,0.2);
+ border-top-color: var(--gold);
+ border-radius: 50%;
+ animation: spin 1s linear infinite;
+ margin: 0 auto 1rem;
+}
+@keyframes spin {
+ to { transform: rotate(360deg); }
+}
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.1); border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: rgba(255,255,255,0.2); }
+@media (max-width: 768px) {
+ .hero-date { font-size: 2.6rem; }
+ .events-grid { grid-template-columns: 1fr; }
+ .header-inner { justify-content: center; }
+ .hero { padding: 2rem 1rem 1.5rem; }
+ .filters-grid { justify-content: flex-start; }
+ .modal { padding: 1.75rem; }
+ .modal-title { font-size: 1.4rem; }
+ .stats-bar { gap: 1.5rem; }
+}
+@media (max-width: 480px) {
+ .hero-date { font-size: 2.2rem; }
+ .filter-btn { padding: 0.45rem 0.75rem; font-size: 0.75rem; }
+ .event-card { padding: 1.1rem; }
+ .footer-links { flex-direction: column; gap: 0.75rem; }
+ .logo-text { font-size: 1.4rem; }
+}
+</style>
+</head>
+<body>
+<header class="header">
+ <div class="header-inner">
+   <div class="logo" onclick="goToday()">
+     <svg viewBox="0 0 40 40" fill="none">
+       <circle cx="20" cy="20" r="18" stroke="#D4A843" stroke-width="2"/>
+       <circle cx="20" cy="20" r="6" fill="#D4A843"/>
+       <circle cx="20" cy="6" r="2.5" fill="#D4A843"/>
+       <circle cx="20" cy="34" r="2.5" fill="#D4A843"/>
+       <circle cx="6" cy="20" r="2.5" fill="#D4A843"/>
+       <circle cx="34" cy="20" r="2.5" fill="#D4A843"/>
+       <circle cx="10" cy="10" r="2" fill="#D4A843" opacity="0.6"/>
+       <circle cx="30" cy="10" r="2" fill="#D4A843" opacity="0.6"/>
+       <circle cx="10" cy="30" r="2" fill="#D4A843" opacity="0.6"/>
+       <circle cx="30" cy="30" r="2" fill="#D4A843" opacity="0.6"/>
+     </svg>
+     <div>
+       <div class="logo-text">CineMemory</div>
+       <div class="logo-sub" id="logoSub">Accadde oggi nel cinema</div>
+     </div>
+   </div>
+   <div class="header-actions">
+     <div class="date-nav">
+       <button class="nav-arrow" onclick="changeDay(-1)" id="navPrev" title="Giorno precedente">
+         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><polyline points="15,18 9,12 15,6"/></svg>
+       </button>
+       <button class="today-btn" onclick="goToday()" id="todayBtn">Oggi</button>
+       <button class="nav-arrow" onclick="changeDay(1)" id="navNext" title="Giorno successivo">
+         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><polyline points="9,6 15,12 9,18"/></svg>
+       </button>
+     </div>
+     <div class="lang-toggle">
+       <button class="lang-btn active" onclick="setLang('it')" id="langIt">IT</button>
+       <button class="lang-btn" onclick="setLang('en')" id="langEn">EN</button>
+     </div>
+   </div>
+ </div>
+</header>
+<section class="hero">
+ <div class="hero-icon">
+   <svg viewBox="0 0 24 24" fill="none" stroke="#D4A843" stroke-width="1.5" stroke-linecap="round">
+     <rect x="2" y="2" width="20" height="20" rx="2.18"/>
+     <line x1="7" y1="2" x2="7" y2="22"/>
+     <line x1="17" y1="2" x2="17" y2="22"/>
+     <line x1="2" y1="12" x2="22" y2="12"/>
+     <line x1="2" y1="7" x2="7" y2="7"/>
+     <line x1="2" y1="17" x2="7" y2="17"/>
+     <line x1="17" y1="7" x2="22" y2="7"/>
+     <line x1="17" y1="17" x2="22" y2="17"/>
+   </svg>
+ </div>
+ <div class="hero-date" id="heroDate">25 Luglio</div>
+ <div class="hero-subtitle" id="heroSubtitle">Accadde oggi nella storia del cinema</div>
+ <div class="stats-bar">
+   <div class="stat-item">
+     <div class="stat-num" id="statEvents">0</div>
+     <div class="stat-label" id="statEventsLabel">Eventi</div>
+   </div>
+   <div class="stat-item">
+     <div class="stat-num" id="statYears">0</div>
+     <div class="stat-label" id="statYearsLabel">Anni di storia</div>
+   </div>
+ </div>
+</section>
+<div class="filters-section">
+ <div class="search-wrapper">
+   <div class="search-icon">
+     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+   </div>
+   <input type="text" class="search-input" id="searchInput" placeholder="Cerca evento, persona, film..." oninput="filterEvents()">
+ </div>
+ <div class="filters-grid" id="filtersGrid"></div>
+</div>
+<section class="events-section">
+ <div class="events-grid" id="eventsGrid"></div>
+</section>
+<div class="modal-overlay" id="modalOverlay" onclick="closeModal(event)">
+ <div class="modal" id="modal">
+   <button class="modal-close" onclick="closeModal()">
+     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+   </button>
+   <div id="modalContent"></div>
+ </div>
+</div>
+<footer class="footer">
+ <div class="footer-inner">
+   <div class="footer-brand">CineMemory</div>
+   <div class="footer-desc" id="footerDesc">Un progetto dedicato alla storia del cinema, giorno per giorno. Nascite, uscite, invenzioni, curiosità e momenti storici che hanno plasmato la settima arte.</div>
+   <div class="footer-links">
+     <a href="https://ko-fi.com/noemimarcolini" target="_blank" class="footer-link">
+       <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23 11.5C23 10.1 21.9 9 20.5 9H18V8C18 6.3 16.7 5 15 5H4C2.3 5 1 6.3 1 8V15C1 17.8 3.2 20 6 20H15C17 20 18.6 18.8 19.5 17.1C21.5 16.7 23 14.9 23 12.7V11.5ZM15 18H6C4.3 18 3 16.7 3 15V8C3 7.4 3.4 7 4 7H15C15.6 7 16 7.4 16 8V15C16 16.7 14.7 18 15 18ZM21 12.7C21 13.6 20.3 14.4 19.4 14.7C19.1 12.8 17.7 11.3 15.9 10.7C17 10.3 18 9.8 18 9H20.5C20.8 9 21 9.2 21 9.5V12.7Z"/><path d="M10 9C8.3 9 7 10.3 7 12C7 13.7 8.3 15 10 15C11.7 15 13 13.7 13 12C13 10.3 11.7 9 10 9Z"/></svg>
+       <span id="supportText">Supporta su Ko-fi</span>
+     </a>
+     <a href="mailto:noemi.marcolini@gmail.com" class="footer-link">
+       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="2" y="4" width="20" height="16" rx="2"/><polyline points="22,6 12,13 2,6"/></svg>
+       <span>noemi.marcolini@gmail.com</span>
+     </a>
+     <a href="https://github.com" target="_blank" class="footer-link">
+       <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>
+       <span>GitHub</span>
+     </a>
+   </div>
+   <div class="footer-copy" id="footerCopy">© 2025 CineMemory di Noemi Marcolini. Dati storici raccolti da fonti pubbliche. Tutti i diritti riservati.</div>
+ </div>
+</footer>
+<script>
+// ===== LANGUAGE =====
+let currentLang = 'it';
+const i18n = {
+ it: {
+   logoSub: 'Accadde oggi nel cinema',
+   heroSubtitle: 'Accadde oggi nella storia del cinema',
+   todayBtn: 'Oggi',
+   searchPlaceholder: 'Cerca evento, persona, film...',
+   footerDesc: 'Un progetto dedicato alla storia del cinema, giorno per giorno. Nascite, uscite, invenzioni, curiosità e momenti storici che hanno plasmato la settima arte.',
+   supportText: 'Supporta su Ko-fi',
+   footerCopy: '© 2025 CineMemory di Noemi Marcolini. Dati storici raccolti da fonti pubbliche. Tutti i diritti riservati.',
+   allFilter: 'Tutti',
+   noResults: 'Nessun evento trovato per questa data o filtro.',
+   eventsLabel: 'Eventi',
+   yearsLabel: 'Anni di storia',
+   prevDay: 'Giorno precedente',
+   nextDay: 'Giorno successivo',
+   loading: 'Caricamento eventi...',
+   readMore: 'Clicca per saperne di più →',
+   months: ['Gennaio','Febbraio','Marzo','Aprile','Maggio','Giugno','Luglio','Agosto','Settembre','Ottobre','Novembre','Dicembre'],
+   cats: { birth: 'Nascita', release: 'Uscita', historic: 'Evento storico', curiosity: 'Curiosità', invention: 'Invenzione', award: 'Premio' }
+ },
+ en: {
+   logoSub: 'Today in cinema history',
+   heroSubtitle: 'On this day in cinema history',
+   todayBtn: 'Today',
+   searchPlaceholder: 'Search event, person, film...',
+   footerDesc: 'A project dedicated to cinema history, day by day. Births, releases, inventions, curiosities and historic moments that shaped the seventh art.',
+   supportText: 'Support on Ko-fi',
+   footerCopy: '© 2025 CineMemory by Noemi Marcolini. Historical data collected from public sources. All rights reserved.',
+   allFilter: 'All',
+   noResults: 'No events found for this date or filter.',
+   eventsLabel: 'Events',
+   yearsLabel: 'Years of history',
+   prevDay: 'Previous day',
+   nextDay: 'Next day',
+   loading: 'Loading events...',
+   readMore: 'Click to read more →',
+   months: ['January','February','March','April','May','June','July','August','September','October','November','December'],
+   cats: { birth: 'Birth', release: 'Release', historic: 'Historic event', curiosity: 'Curiosity', invention: 'Invention', award: 'Award' }
+ }
+};
+function setLang(lang) {
+ currentLang = lang;
+ document.getElementById('langIt').classList.toggle('active', lang === 'it');
+ document.getElementById('langEn').classList.toggle('active', lang === 'en');
+ document.documentElement.lang = lang;
+ updateUI();
+}
+// ===== DATE STATE =====
+let currentMonth, currentDay;
+const daysInMonth = [31,29,31,30,31,30,31,31,30,31,30,31];
+function goToday() {
+ const now = new Date();
+ currentMonth = now.getMonth() + 1;
+ currentDay = now.getDate();
+ loadMonthData(currentMonth);
+}
+function changeDay(delta) {
+ const oldMonth = currentMonth;
+ currentDay += delta;
+ if (currentDay < 1) {
+   currentMonth--;
+   if (currentMonth < 1) currentMonth = 12;
+   currentDay = daysInMonth[currentMonth - 1];
+ } else if (currentDay > daysInMonth[currentMonth - 1]) {
+   currentDay = 1;
+   currentMonth++;
+   if (currentMonth > 12) currentMonth = 1;
+ }
+ if (oldMonth !== currentMonth) {
+   loadMonthData(currentMonth);
+ } else {
+   updateUI();
+ }
+}
+// ===== SVG ICONS =====
+const svgIcons = {
+ birth: `<svg viewBox="0 0 24 24" fill="none" stroke="#E67E22" stroke-width="2" stroke-linecap="round"><path d="M20 21v-2a4 4 0 00-4-4H8a4 4 0 00-4 4v2"/><circle cx="12" cy="7" r="4"/></svg>`,
+ release: `<svg viewBox="0 0 24 24" fill="none" stroke="#3498DB" stroke-width="2" stroke-linecap="round"><rect x="2" y="2" width="20" height="20" rx="2.18"/><line x1="7" y1="2" x2="7" y2="22"/><line x1="17" y1="2" x2="17" y2="22"/><line x1="2" y1="12" x2="22" y2="12"/><line x1="2" y1="7" x2="7" y2="7"/><line x1="2" y1="17" x2="7" y2="17"/><line x1="17" y1="7" x2="22" y2="7"/><line x1="17" y1="17" x2="22" y2="17"/></svg>`,
+ historic: `<svg viewBox="0 0 24 24" fill="none" stroke="#9B59B6" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="10"/><polyline points="12,6 12,12 16,14"/></svg>`,
+ curiosity: `<svg viewBox="0 0 24 24" fill="none" stroke="#2ECC71" stroke-width="2" stroke-linecap="round"><path d="M9.09 9a3 3 0 015.83 1c0 2-3 3-3 3"/><circle cx="12" cy="12" r="10"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>`,
+ invention: `<svg viewBox="0 0 24 24" fill="none" stroke="#E74C3C" stroke-width="2" stroke-linecap="round"><line x1="9" y1="18" x2="15" y2="18"/><line x1="10" y1="22" x2="14" y2="22"/><path d="M15.09 14c.18-.98.65-1.74 1.41-2.5A4.65 4.65 0 0018 8 6 6 0 006 8c0 1 .23 2.23 1.5 3.5A4.61 4.61 0 018.91 14"/></svg>`,
+ award: `<svg viewBox="0 0 24 24" fill="none" stroke="#D4A843" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="8" r="7"/><polyline points="8.21,13.89 7,23 12,20 17,23 15.79,13.88"/></svg>`
+};
+const catColors = {
+ birth: 'var(--cat-birth)',
+ release: 'var(--cat-release)',
+ historic: 'var(--cat-historic)',
+ curiosity: 'var(--cat-curiosity)',
+ invention: 'var(--cat-invention)',
+ award: 'var(--cat-award)'
+};
+// ===== DATABASE =====
+const DB = {};
+const loadedMonths = {};
+const monthNames = ['january', 'february', 'march', 'april', 'may', 'june', 'july', 'august', 'september', 'october', 'november', 'december'];
+async function loadMonthData(month) {
+ if (loadedMonths[month]) {
+   updateUI();
+   return;
+ }
+  const grid = document.getElementById('eventsGrid');
+ const t = i18n[currentLang];
+ grid.innerHTML = `<div class="loading"><div class="loading-spinner"></div><p>${t.loading}</p></div>`;
+  try {
+   const response = await fetch(`data/${monthNames[month - 1]}.json`);
+   if (response.ok) {
+     const data = await response.json();
+     // Merge data into DB
+     for (const key in data) {
+       DB[key] = data[key];
+     }
+     loadedMonths[month] = true;
+   }
+ } catch (e) {
+   console.log('Could not load month data:', e);
+ }
+  updateUI();
+}
+// ===== FILTER STATE =====
+let activeFilter = 'all';
+function setFilter(cat) {
+ activeFilter = cat;
+ renderFilters();
+ renderEvents();
+}
+// ===== UI UPDATE =====
+function updateUI() {
+ const t = i18n[currentLang];
+  // Update text elements
+ document.getElementById('logoSub').textContent = t.logoSub;
+ document.getElementById('heroSubtitle').textContent = t.heroSubtitle;
+ document.getElementById('todayBtn').textContent = t.todayBtn;
+ document.getElementById('searchInput').placeholder = t.searchPlaceholder;
+ document.getElementById('footerDesc').textContent = t.footerDesc;
+ document.getElementById('supportText').textContent = t.supportText;
+ document.getElementById('footerCopy').textContent = t.footerCopy;
+ document.getElementById('statEventsLabel').textContent = t.eventsLabel;
+ document.getElementById('statYearsLabel').textContent = t.yearsLabel;
+ document.getElementById('navPrev').title = t.prevDay;
+ document.getElementById('navNext').title = t.nextDay;
+ // Hero date
+ document.getElementById('heroDate').textContent = `${currentDay} ${t.months[currentMonth - 1]}`;
+ // Stats
+ const key = `${currentMonth}-${currentDay}`;
+ const dayEvents = DB[key] || [];
+ document.getElementById('statEvents').textContent = dayEvents.length;
+  if (dayEvents.length > 0) {
+   const years = dayEvents.map(e => e.year).filter(y => y);
+   if (years.length > 0) {
+     const minYear = Math.min(...years);
+     const maxYear = Math.max(...years);
+     document.getElementById('statYears').textContent = maxYear - minYear;
+   } else {
+     document.getElementById('statYears').textContent = '0';
+   }
+ } else {
+   document.getElementById('statYears').textContent = '0';
+ }
+ activeFilter = 'all';
+ document.getElementById('searchInput').value = '';
+ renderFilters();
+ renderEvents();
+}
+function renderFilters() {
+ const t = i18n[currentLang];
+ const key = `${currentMonth}-${currentDay}`;
+ const dayEvents = DB[key] || [];
+ const counts = { all: dayEvents.length };
+ ['birth','release','historic','curiosity','invention','award'].forEach(c => {
+   counts[c] = dayEvents.filter(e => e.cat === c).length;
+ });
+ const grid = document.getElementById('filtersGrid');
+ let html = `<button class="filter-btn ${activeFilter === 'all' ? 'active' : ''}" style="--filter-color:var(--gold)" onclick="setFilter('all')">
+   <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
+   ${t.allFilter} <span class="filter-count">${counts.all}</span></button>`;
+ ['birth','release','historic','curiosity','invention','award'].forEach(cat => {
+   if (counts[cat] > 0) {
+     html += `<button class="filter-btn ${activeFilter === cat ? 'active' : ''}" style="--filter-color:${catColors[cat]}" onclick="setFilter('${cat}')">
+       <span class="filter-dot" style="background:${catColors[cat]}"></span>
+       ${t.cats[cat]} <span class="filter-count">${counts[cat]}</span></button>`;
+   }
+ });
+ grid.innerHTML = html;
+}
+function filterEvents() { renderEvents(); }
+function renderEvents() {
+ const t = i18n[currentLang];
+ const key = `${currentMonth}-${currentDay}`;
+ let events = DB[key] || [];
+ const search = document.getElementById('searchInput').value.toLowerCase().trim();
+ if (activeFilter !== 'all') {
+   events = events.filter(e => e.cat === activeFilter);
+ }
+ if (search) {
+   events = events.filter(e => {
+     const title = (currentLang === 'it' ? e.it : e.en).toLowerCase();
+     const desc = (currentLang === 'it' ? e.it_d : e.en_d).toLowerCase();
+     return title.includes(search) || desc.includes(search) || (e.year + '').includes(search);
+   });
+ }
+ const grid = document.getElementById('eventsGrid');
+ if (events.length === 0) {
+   grid.innerHTML = `<div class="no-results">
+     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="2" width="20" height="20" rx="2"/><line x1="7" y1="2" x2="7" y2="22"/><line x1="17" y1="2" x2="17" y2="22"/><line x1="2" y1="12" x2="22" y2="12"/></svg>
+     <p>${t.noResults}</p></div>`;
+   return;
+ }
+ events.sort((a, b) => (a.year || 0) - (b.year || 0));
+ grid.innerHTML = events.map((ev, idx) => {
+   const title = currentLang === 'it' ? ev.it : ev.en;
+   const desc = currentLang === 'it' ? ev.it_d : ev.en_d;
+   const catLabel = t.cats[ev.cat] || ev.cat;
+   // Mostra l'invito ad aprire il dettaglio solo se esiste un contenuto esteso diverso dal breve
+   const hasLong = (currentLang === 'it' ? ev.it_long : ev.en_long) &&
+                   (currentLang === 'it' ? ev.it_long : ev.en_long).trim().length > 0;
+   return `<div class="event-card" style="--card-accent:${catColors[ev.cat]}" onclick="openModal(${idx})">
+     <div class="card-header">
+       <div class="card-icon">${svgIcons[ev.cat]}</div>
+       <div class="card-meta">
+         <div class="card-category" style="color:${catColors[ev.cat]}">${catLabel}</div>
+         <div class="card-year">${ev.year || ''}</div>
+       </div>
+     </div>
+     <div class="card-title">${title}</div>
+     <div class="card-desc">${desc}</div>
+     ${hasLong ? `<div class="card-more">${t.readMore}</div>` : ''}
+   </div>`;
+ }).join('');
+}
+function openModal(idx) {
+ const t = i18n[currentLang];
+ const key = `${currentMonth}-${currentDay}`;
+ let events = DB[key] || [];
+ if (activeFilter !== 'all') events = events.filter(e => e.cat === activeFilter);
+ const search = document.getElementById('searchInput').value.toLowerCase().trim();
+ if (search) {
+   events = events.filter(e => {
+     const title = (currentLang === 'it' ? e.it : e.en).toLowerCase();
+     const desc = (currentLang === 'it' ? e.it_d : e.en_d).toLowerCase();
+     return title.includes(search) || desc.includes(search) || (e.year + '').includes(search);
+   });
+ }
+ events.sort((a, b) => (a.year || 0) - (b.year || 0));
+ const ev = events[idx];
+ if (!ev) return;
+ const title = currentLang === 'it' ? ev.it : ev.en;
+ // Usa la descrizione ESTESA (it_long/en_long) nel modale.
+ // Se un evento non ha ancora il campo esteso (dati vecchi), fa fallback sulla breve.
+ const longIt = (ev.it_long && ev.it_long.trim()) ? ev.it_long : ev.it_d;
+ const longEn = (ev.en_long && ev.en_long.trim()) ? ev.en_long : ev.en_d;
+ const desc = currentLang === 'it' ? longIt : longEn;
+ const catLabel = t.cats[ev.cat] || ev.cat;
+ document.getElementById('modalContent').innerHTML = `
+   <div class="modal-cat" style="color:${catColors[ev.cat]}">${svgIcons[ev.cat]} ${catLabel}</div>
+   <div class="modal-year">${ev.year || ''} — ${currentDay} ${t.months[currentMonth - 1]}</div>
+   <div class="modal-title">${title}</div>
+   <div class="modal-desc">${desc}</div>`;
+ document.getElementById('modalOverlay').classList.add('active');
+ document.body.style.overflow = 'hidden';
+}
+function closeModal(e) {
+ if (e && e.target !== document.getElementById('modalOverlay') && !e.target.closest('.modal-close')) return;
+ document.getElementById('modalOverlay').classList.remove('active');
+ document.body.style.overflow = '';
+}
+document.addEventListener('keydown', e => {
+ if (e.key === 'Escape') closeModal();
+ if (e.key === 'ArrowLeft') changeDay(-1);
+ if (e.key === 'ArrowRight') changeDay(1);
+});
+// ==================== INIT ====================
+goToday();
+</script>
+</body>
+</html>
