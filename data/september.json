@@ -1,194 +1,180 @@
 {
-  "9-1": [
+  "10-1": [
     {
-      "year": 1923,
+      "year": 1924,
       "cat": "birth",
-      "it": "Nasce Rocky Marciano, figura raccontata dal cinema",
-      "en": "Birth of Rocky Marciano, portrayed in cinema",
-      "it_d": "Nasce il pugile la cui carriera è stata raccontata in film e documentari sportivi.",
-      "en_d": "Birth of the boxer whose career was portrayed in sports films and documentaries.",
-      "it_long": "Il 1° settembre 1923 nasce Rocky Marciano. Pur non essendo un professionista del cinema, la sua carriera è stata raccontata in documentari e film biografici dedicati al pugilato, contribuendo alla tradizione cinematografica sportiva americana. La figura del campione imbattuto dei pesi massimi ha alimentato un immaginario narrativo che il cinema ha spesso esplorato attraverso il mito dell'ascesa e della resilienza atletica.",
-      "en_long": "On September 1, 1923, Rocky Marciano was born. Although not a film professional, his career has been depicted in documentaries and biographical sports films, contributing to the American cinematic tradition of boxing narratives. The undefeated heavyweight champion's story has fueled a narrative imagery that cinema has often explored through themes of rise, struggle, and athletic resilience."
+      "it": "Nasce Jimmy Carter, produttore e sostenitore del cinema",
+      "en": "Birth of Jimmy Carter, film supporter",
+      "it_d": "Nasce il futuro presidente USA che sostenne politiche culturali legate anche all'industria cinematografica.",
+      "en_d": "Birth of the future U.S. president who supported cultural policies affecting the film industry.",
+      "it_long": "Il 1° ottobre 1924 nasce Jimmy Carter. Pur non essendo un uomo di cinema, durante la sua presidenza sostenne politiche culturali che ebbero ricadute anche sull'industria cinematografica statunitense, in particolare attraverso il National Endowment for the Arts. La sua figura è stata inoltre raccontata in documentari e film politici, contribuendo alla tradizione del cinema biografico americano contemporaneo.",
+      "en_long": "On October 1, 1924, Jimmy Carter was born. Although not a film professional, during his presidency he supported cultural policies that also impacted the American film industry, particularly through the National Endowment for the Arts. His life has been portrayed in documentaries and political films, contributing to the tradition of contemporary American biographical cinema."
+    },
+    {
+      "year": 1930,
+      "cat": "birth",
+      "it": "Nasce Philippe Noiret",
+      "en": "Birth of Philippe Noiret",
+      "it_d": "Nasce l'attore francese protagonista di Nuovo Cinema Paradiso.",
+      "en_d": "Birth of the French actor and star of Cinema Paradiso.",
+      "it_long": "Il 19 ottobre 1930 nasce Philippe Noiret a Lilla, in Francia. Con oltre cento film alle spalle, divenne noto al pubblico internazionale per il ruolo del proiezionista Alfredo in 'Nuovo Cinema Paradiso' (1988) di Giuseppe Tornatore, film premio Oscar come miglior film straniero. La sua figura paterna e malinconica nel film è diventata uno dei ritratti più amati del cinema che celebra il cinema stesso.",
+      "en_long": "On October 19, 1930, Philippe Noiret was born in Lille, France. With over a hundred films to his credit, he became known internationally for playing projectionist Alfredo in Giuseppe Tornatore's 'Cinema Paradiso' (1988), winner of the Academy Award for Best Foreign Language Film. His warm, melancholic fatherly presence in the film became one of the most beloved portrayals in cinema about cinema itself."
     }
   ],
-  "9-2": [
-    {
-      "year": 1968,
-      "cat": "birth",
-      "it": "Nasce Keanu Reeves",
-      "en": "Birth of Keanu Reeves",
-      "it_d": "Nasce l'attore di Matrix e John Wick, icona del cinema action e fantascientifico contemporaneo.",
-      "en_d": "Birth of the actor of The Matrix and John Wick, icon of contemporary action and sci-fi cinema.",
-      "it_long": "Il 2 settembre 1964 nasce Keanu Reeves a Beirut. Dopo il successo giovanile di 'Bill & Ted', raggiunse fama mondiale con 'Speed' e soprattutto con 'Matrix' (1999), film che rivoluzionò l'estetica dell'action e della fantascienza grazie all'uso innovativo del bullet time. Con la saga di 'John Wick' ha rilanciato il cinema d'azione coreografato degli anni 2010. La sua figura è diventata simbolo di longevità e reinvenzione nel panorama hollywoodiano.",
-      "en_long": "On September 2, 1964, Keanu Reeves was born in Beirut. After early success with 'Bill & Ted,' he achieved global fame with 'Speed' and especially 'The Matrix' (1999), which revolutionized action and science fiction aesthetics through innovative bullet time effects. With the 'John Wick' saga, he revitalized choreographed action cinema in the 2010s. His persona has become a symbol of longevity and reinvention in Hollywood."
-    }
-  ],
-  "9-5": [
-    {
-      "year": 1946,
-      "cat": "birth",
-      "it": "Nasce Freddie Mercury, voce del cinema",
-      "en": "Birth of Freddie Mercury, cinematic voice",
-      "it_d": "Nasce il cantante dei Queen, le cui canzoni hanno segnato colonne sonore e film come Bohemian Rhapsody.",
-      "en_d": "Birth of the Queen singer whose songs shaped soundtracks and films such as Bohemian Rhapsody.",
-      "it_long": "Il 5 settembre 1946 nasce Freddie Mercury. La sua musica con i Queen ha avuto un impatto diretto sul cinema, con brani come 'Bohemian Rhapsody' rilanciati dal film omonimo del 2018, vincitore di quattro premi Oscar. La band aveva già contribuito al cinema con la colonna sonora di 'Flash Gordon' (1980). La figura di Mercury è diventata soggetto cinematografico, consolidando il legame tra cultura rock e grande schermo.",
-      "en_long": "On September 5, 1946, Freddie Mercury was born. His music with Queen had a direct impact on cinema, with songs like 'Bohemian Rhapsody' revitalized by the 2018 film of the same name, which won four Academy Awards. The band had previously contributed to cinema with the soundtrack for 'Flash Gordon' (1980). Mercury's life became a cinematic subject, strengthening the bond between rock culture and the big screen."
-    }
-  ],
-  "9-7": [
-    {
-      "year": 1936,
-      "cat": "birth",
-      "it": "Nasce Buddy Holly, figura cinematografica",
-      "en": "Birth of Buddy Holly, cinematic subject",
-      "it_d": "Nasce il musicista la cui vita è stata raccontata nel film La Bamba e in biopic musicali.",
-      "en_d": "Birth of the musician whose life was portrayed in La Bamba and other music biopics.",
-      "it_long": "Il 7 settembre 1936 nasce Buddy Holly. La sua breve carriera musicale è stata raccontata in film biografici come 'The Buddy Holly Story' (1978), che valse un Oscar per la miglior colonna sonora adattata. La tradizione dei biopic musicali ha contribuito a consolidare la sua figura nel panorama cinematografico, mostrando come il cinema possa preservare e reinterpretare la memoria culturale della musica popolare.",
-      "en_long": "On September 7, 1936, Buddy Holly was born. His brief musical career was portrayed in biographical films such as 'The Buddy Holly Story' (1978), which won the Academy Award for Best Adapted Score. The tradition of musical biopics helped cement his figure within cinema, demonstrating how film can preserve and reinterpret popular music heritage."
-    }
-  ],
-  "9-13": [
-    {
-      "year": 1920,
-      "cat": "birth",
-      "it": "Nasce Claudette Colbert",
-      "en": "Birth of Claudette Colbert",
-      "it_d": "Nasce l'attrice premio Oscar per Accadde una notte, regina della screwball comedy.",
-      "en_d": "Birth of the Oscar-winning actress for It Happened One Night, queen of screwball comedy.",
-      "it_long": "Il 13 settembre 1903 nasce Claudette Colbert. Divenne una delle stelle più brillanti della commedia americana grazie a 'Accadde una notte' (1934) di Frank Capra, per cui vinse l'Oscar come miglior attrice. La sua immagine sofisticata e ironica incarnò perfettamente lo spirito della screwball comedy degli anni '30. La sua carriera attraversò con successo il passaggio dal muto al sonoro, consolidando il suo ruolo nell'età d'oro di Hollywood.",
-      "en_long": "On September 13, 1903, Claudette Colbert was born. She became one of the brightest stars of American comedy thanks to 'It Happened One Night' (1934) by Frank Capra, for which she won the Academy Award for Best Actress. Her sophisticated and witty screen presence perfectly embodied the spirit of 1930s screwball comedy. Her career successfully bridged the transition from silent to sound cinema, cementing her place in Hollywood's Golden Age."
-    }
-  ],
-  "9-15": [
-    {
-      "year": 1946,
-      "cat": "birth",
-      "it": "Nasce Oliver Stone",
-      "en": "Birth of Oliver Stone",
-      "it_d": "Nasce il regista premio Oscar di Platoon e JFK, autore di cinema politico e controverso.",
-      "en_d": "Birth of the Oscar-winning director of Platoon and JFK, known for political and controversial cinema.",
-      "it_long": "Il 15 settembre 1946 nasce Oliver Stone. Veterano del Vietnam, portò la sua esperienza personale in 'Platoon' (1986), che vinse l'Oscar come miglior film e miglior regia. Con 'JFK' e 'Nato il 4 luglio' consolidò la sua reputazione di regista impegnato politicamente, spesso al centro di polemiche per la rilettura critica della storia americana. Il suo stile energico e documentaristico ha influenzato il cinema politico contemporaneo.",
-      "en_long": "On September 15, 1946, Oliver Stone was born. A Vietnam War veteran, he brought his personal experience into 'Platoon' (1986), which won the Academy Awards for Best Picture and Best Director. With 'JFK' and 'Born on the Fourth of July,' he solidified his reputation as a politically engaged filmmaker, often sparking controversy for his critical reinterpretation of American history. His energetic, quasi-documentary style influenced contemporary political cinema."
-    }
-  ],
-  "9-21": [
-    {
-      "year": 1934,
-      "cat": "birth",
-      "it": "Nasce Leonard Cohen, voce cinematografica",
-      "en": "Birth of Leonard Cohen, cinematic voice",
-      "it_d": "Nasce il cantautore le cui canzoni hanno segnato numerose colonne sonore cinematografiche.",
-      "en_d": "Birth of the singer-songwriter whose songs shaped numerous film soundtracks.",
-      "it_long": "Il 21 settembre 1934 nasce Leonard Cohen. Le sue canzoni, tra cui 'Hallelujah', sono diventate parte integrante di numerose colonne sonore cinematografiche e televisive. Il suo lavoro è stato al centro di documentari e film musicali che hanno esplorato la sua influenza culturale. Il rapporto tra la sua musica e il cinema dimostra il ruolo fondamentale delle colonne sonore nel definire l'identità emotiva delle opere filmiche.",
-      "en_long": "On September 21, 1934, Leonard Cohen was born. His songs, including 'Hallelujah,' became integral parts of numerous film and television soundtracks. His work has been the subject of documentaries and music films exploring his cultural influence. The relationship between his music and cinema demonstrates the crucial role of soundtracks in shaping the emotional identity of film works."
-    }
-  ],
-  "9-25": [
+  "10-2": [
     {
       "year": 1951,
       "cat": "birth",
-      "it": "Nasce Mark Hamill",
-      "en": "Birth of Mark Hamill",
-      "it_d": "Nasce l'interprete di Luke Skywalker nella saga di Star Wars.",
-      "en_d": "Birth of the actor who portrayed Luke Skywalker in the Star Wars saga.",
-      "it_long": "Il 25 settembre 1951 nasce Mark Hamill. Divenne celebre a livello mondiale interpretando Luke Skywalker nella saga di 'Star Wars' a partire dal 1977. Il personaggio è diventato uno dei più iconici della storia del cinema di fantascienza. Oltre alla carriera cinematografica, Hamill ha lavorato come doppiatore, prestando la voce al Joker in numerose produzioni animate e videogiochi, consolidando la sua versatilità artistica.",
-      "en_long": "On September 25, 1951, Mark Hamill was born. He achieved worldwide fame portraying Luke Skywalker in the 'Star Wars' saga starting in 1977. The character became one of the most iconic figures in science fiction cinema. Beyond his film career, Hamill has worked extensively as a voice actor, notably voicing the Joker in various animated productions and video games, showcasing his artistic versatility."
+      "it": "Nasce Sting, autore di colonne sonore",
+      "en": "Birth of Sting, film composer contributor",
+      "it_d": "Nasce il musicista che ha firmato brani per il cinema come My Funny Friend and Me.",
+      "en_d": "Birth of the musician who composed songs for films such as My Funny Friend and Me.",
+      "it_long": "Il 2 ottobre 1951 nasce Sting. Oltre alla carriera musicale, ha composto e interpretato brani per il cinema, ricevendo nomination agli Oscar per canzoni originali come 'My Funny Friend and Me' dal film 'Le follie dell'imperatore'. La sua musica ha contribuito a numerose colonne sonore, dimostrando il dialogo continuo tra industria musicale e cinematografica.",
+      "en_long": "On October 2, 1951, Sting was born. Beyond his music career, he composed and performed songs for cinema, receiving Academy Award nominations for original songs such as 'My Funny Friend and Me' from 'The Emperor's New Groove.' His work has contributed to numerous film soundtracks, demonstrating the ongoing dialogue between the music and film industries."
     }
   ],
-  "9-27": [
+  "10-4": [
     {
-      "year": 1972,
-      "cat": "release",
-      "it": "Uscita di Ultimo tango a Parigi",
-      "en": "Release of Last Tango in Paris",
-      "it_d": "Esce il film di Bernardo Bertolucci con Marlon Brando, destinato a suscitare scandalo internazionale.",
-      "en_d": "Bernardo Bertolucci's film starring Marlon Brando is released, sparking international controversy.",
-      "it_long": "Il 27 settembre 1972 esce 'Ultimo tango a Parigi' di Bernardo Bertolucci. Interpretato da Marlon Brando e Maria Schneider, il film suscitò immediatamente scandalo per le sue scene esplicite e fu oggetto di censura e processi in diversi paesi. Nonostante le polemiche, è considerato un'opera fondamentale del cinema europeo degli anni '70 per la sua esplorazione radicale dell'intimità e dell'alienazione. Il film consolidò la reputazione internazionale di Bertolucci.",
-      "en_long": "On September 27, 1972, 'Last Tango in Paris' directed by Bernardo Bertolucci was released. Starring Marlon Brando and Maria Schneider, the film immediately sparked controversy for its explicit scenes and faced censorship and legal action in several countries. Despite the debates, it is considered a key work of 1970s European cinema for its radical exploration of intimacy and alienation. The film cemented Bertolucci's international reputation."
+      "year": 1946,
+      "cat": "birth",
+      "it": "Nasce Susan Sarandon",
+      "en": "Birth of Susan Sarandon",
+      "it_d": "Nasce l'attrice premio Oscar per Dead Man Walking, tra le figure più durature di Hollywood.",
+      "en_d": "Birth of the Oscar-winning actress for Dead Man Walking, one of Hollywood's most enduring figures.",
+      "it_long": "Il 4 ottobre 1946 nasce Susan Sarandon a New York. Dopo il ruolo cult in 'The Rocky Horror Picture Show', costruì una carriera versatile con film come 'Thelma & Louise' e 'Dead Man Walking' (1995), che le valse l'Oscar come miglior attrice nel ruolo di suor Helen Prejean. La sua lunga carriera è caratterizzata da un forte impegno civile e da ruoli che affrontano temi sociali complessi.",
+      "en_long": "On October 4, 1946, Susan Sarandon was born in New York. After her cult role in 'The Rocky Horror Picture Show,' she built a versatile career with films such as 'Thelma & Louise' and 'Dead Man Walking' (1995), which earned her the Academy Award for Best Actress as Sister Helen Prejean. Her long career has been marked by strong civic engagement and roles tackling complex social issues."
+    }
+  ],
+  "10-5": [
+    {
+      "year": 1975,
+      "cat": "birth",
+      "it": "Nasce Kate Winslet",
+      "en": "Birth of Kate Winslet",
+      "it_d": "Nasce l'attrice premio Oscar per The Reader, protagonista di Titanic ed Eternal Sunshine.",
+      "en_d": "Birth of the Oscar-winning actress for The Reader, star of Titanic and Eternal Sunshine.",
+      "it_long": "Il 5 ottobre 1975 nasce Kate Winslet in Inghilterra. Ottenne fama mondiale con 'Titanic' (1997) di James Cameron, ma la sua carriera si distingue per la scelta di ruoli complessi in film d'autore come 'Eternal Sunshine of the Spotless Mind' e 'The Reader' (2008), che le valse l'Oscar come miglior attrice. È una delle poche attrici ad aver vinto Oscar, Emmy, Grammy e Tony Award nel corso della carriera.",
+      "en_long": "On October 5, 1975, Kate Winslet was born in England. She gained worldwide fame with James Cameron's 'Titanic' (1997), but her career stands out for choosing complex roles in auteur films such as 'Eternal Sunshine of the Spotless Mind' and 'The Reader' (2008), which earned her the Academy Award for Best Actress. She is one of the few actresses to have won an Oscar, Emmy, Grammy, and Tony Award during her career."
+    }
+  ],
+  "10-9": [
+    {
+      "year": 1966,
+      "cat": "birth",
+      "it": "Nasce David Cameron, soggetto cinematografico",
+      "en": "Birth of David Cameron, cinematic subject",
+      "it_d": "Nasce il politico britannico rappresentato in film e docu‑drama contemporanei.",
+      "en_d": "Birth of the British politician portrayed in contemporary films and docudramas.",
+      "it_long": "Il 9 ottobre 1966 nasce David Cameron. Pur non appartenendo al mondo del cinema, la sua figura è stata rappresentata in docu‑drama e produzioni televisive legate alla Brexit e alla politica britannica recente. Il cinema e la televisione hanno esplorato la sua leadership come parte della narrazione politica europea del XXI secolo.",
+      "en_long": "On October 9, 1966, David Cameron was born. Although not part of the film industry, he has been portrayed in docudramas and television productions related to Brexit and recent British politics. Film and television have explored his leadership as part of the broader narrative of 21st‑century European political history."
+    }
+  ],
+  "10-13": [
+    {
+      "year": 1941,
+      "cat": "birth",
+      "it": "Nasce Paul Simon, autore di colonne sonore",
+      "en": "Birth of Paul Simon",
+      "it_d": "Nasce il musicista la cui musica per Il laureato ha definito una nuova stagione delle colonne sonore.",
+      "en_d": "Birth of the musician whose music for The Graduate defined a new era of film soundtracks.",
+      "it_long": "Il 13 ottobre 1941 nasce Paul Simon. Insieme ad Art Garfunkel firmò la colonna sonora de 'Il laureato' (1967) di Mike Nichols, con brani come 'The Sound of Silence' che divennero indissolubilmente legati all'immaginario del film. La colonna sonora contribuì a consolidare la pratica di utilizzare musica pop preesistente per costruire l'atmosfera emotiva di un film, anticipando una tendenza che sarebbe diventata centrale nel cinema successivo.",
+      "en_long": "On October 13, 1941, Paul Simon was born. Together with Art Garfunkel, he composed the soundtrack for Mike Nichols's 'The Graduate' (1967), with songs like 'The Sound of Silence' becoming inseparable from the film's imagery. The soundtrack helped establish the practice of using pre-existing pop music to build a film's emotional atmosphere, anticipating a trend that would become central to later cinema."
+    }
+  ],
+  "10-14": [
+    {
+      "year": 1927,
+      "cat": "birth",
+      "it": "Nasce Roger Moore",
+      "en": "Birth of Roger Moore",
+      "it_d": "Nasce l'attore britannico interprete di James Bond in sette film tra il 1973 e il 1985.",
+      "en_d": "Birth of the British actor who portrayed James Bond in seven films between 1973 and 1985.",
+      "it_long": "Il 14 ottobre 1927 nasce Roger Moore. Dopo una lunga carriera televisiva, divenne celebre come James Bond, interpretando l'agente 007 in sette film ufficiali della saga, tra cui 'La spia che mi amava' e 'Moonraker'. Il suo Bond ironico e sofisticato segnò una fase più leggera del franchise. Oltre al cinema, Moore fu ambasciatore UNICEF e ricevette il titolo di Sir per il suo impegno umanitario.",
+      "en_long": "On October 14, 1927, Roger Moore was born. After a long television career, he became famous as James Bond, portraying 007 in seven official films of the franchise, including 'The Spy Who Loved Me' and 'Moonraker.' His witty and sophisticated Bond defined a lighter era of the series. Beyond cinema, Moore served as a UNICEF ambassador and was knighted for his humanitarian work."
+    }
+  ],
+  "10-15": [
+    {
+      "year": 1908,
+      "cat": "birth",
+      "it": "Nasce John Kenneth Galbraith, presenza cinematografica",
+      "en": "Birth of John Kenneth Galbraith, documentary subject",
+      "it_d": "Nasce l'economista apparso in documentari e film dedicati alla politica economica del Novecento.",
+      "en_d": "Birth of the economist who appeared in documentaries about 20th-century economic policy.",
+      "it_long": "Il 15 ottobre 1908 nasce John Kenneth Galbraith. La sua figura è stata presente in documentari e produzioni televisive dedicate alla politica economica del XX secolo, contribuendo al genere del cinema documentario politico. Le sue analisi e interviste hanno arricchito numerose opere audiovisive di carattere storico e didattico.",
+      "en_long": "On October 15, 1908, John Kenneth Galbraith was born. He appeared in documentaries and television productions focused on 20th-century economic policy, contributing to the political documentary genre. His analyses and interviews enriched numerous historical and educational audiovisual works."
+    }
+  ],
+  "10-16": [
+    {
+      "year": 1925,
+      "cat": "birth",
+      "it": "Nasce Angela Lansbury",
+      "en": "Birth of Angela Lansbury",
+      "it_d": "Nasce l'attrice candidata all'Oscar e protagonista di film come Va' e uccidi.",
+      "en_d": "Birth of the Oscar-nominated actress known for films such as The Manchurian Candidate.",
+      "it_long": "Il 16 ottobre 1925 nasce Angela Lansbury. Candidata tre volte all'Oscar per ruoli non protagonisti, è ricordata per film come 'Va' e uccidi' (1962) e per la carriera teatrale e televisiva culminata con 'La signora in giallo'. La sua versatilità tra cinema, teatro e televisione l'ha resa una delle interpreti più longeve e rispettate del panorama angloamericano.",
+      "en_long": "On October 16, 1925, Angela Lansbury was born. Nominated three times for the Academy Award for Best Supporting Actress, she is remembered for films such as 'The Manchurian Candidate' (1962) and for a long stage and television career, culminating in 'Murder, She Wrote.' Her versatility across film, theater, and television made her one of the most enduring and respected performers in the English-speaking world."
+    }
+  ],
+  "10-17": [
+    {
+      "year": 1918,
+      "cat": "birth",
+      "it": "Nasce Rita Hayworth",
+      "en": "Birth of Rita Hayworth",
+      "it_d": "Nasce l'attrice icona del noir hollywoodiano, protagonista di Gilda.",
+      "en_d": "Birth of the actress and icon of Hollywood noir, star of Gilda.",
+      "it_long": "Il 17 ottobre 1918 nasce Rita Hayworth a New York. Divenne una delle dive più celebrate degli anni '40, consacrata dal ruolo in 'Gilda' (1946), film che la trasformò in un'icona sensuale del cinema noir. La sua celebre scena in cui canta 'Put the Blame on Mame' è considerata tra le più memorabili della storia del cinema. La sua carriera fu segnata da un contrasto tra l'immagine pubblica costruita dallo studio system e le sue vicende personali travagliate.",
+      "en_long": "On October 17, 1918, Rita Hayworth was born in New York. She became one of the most celebrated stars of the 1940s, cemented by her role in 'Gilda' (1946), a film that turned her into a sensual icon of noir cinema. Her famous scene performing 'Put the Blame on Mame' is considered one of the most memorable in film history. Her career was marked by a contrast between the studio-built public image and her turbulent personal life."
+    }
+  ],
+  "10-18": [
+    {
+      "year": 1926,
+      "cat": "birth",
+      "it": "Nasce Chuck Berry, icona musicale del cinema",
+      "en": "Birth of Chuck Berry, cinematic music icon",
+      "it_d": "Nasce il musicista le cui canzoni sono diventate simbolo di film come Ritorno al futuro.",
+      "en_d": "Birth of the musician whose songs became iconic in films like Back to the Future.",
+      "it_long": "Il 18 ottobre 1926 nasce Chuck Berry. Le sue canzoni, in particolare 'Johnny B. Goode', sono diventate parte integrante dell'immaginario cinematografico grazie a film come 'Ritorno al futuro'. Il cinema ha spesso utilizzato la sua musica per evocare l'energia del rock'n'roll delle origini. La sua figura è stata raccontata anche in documentari musicali che ne hanno celebrato l'impatto culturale.",
+      "en_long": "On October 18, 1926, Chuck Berry was born. His songs, especially 'Johnny B. Goode,' became integral to cinematic imagery through films like 'Back to the Future.' Cinema has frequently used his music to evoke the energy of early rock and roll. His life and legacy have also been explored in music documentaries celebrating his cultural impact."
+    }
+  ],
+  "10-24": [
+    {
+      "year": 1939,
+      "cat": "birth",
+      "it": "Nasce F. Murray Abraham",
+      "en": "Birth of F. Murray Abraham",
+      "it_d": "Nasce l'attore premio Oscar per il ruolo di Salieri in Amadeus.",
+      "en_d": "Birth of the Oscar-winning actor for playing Salieri in Amadeus.",
+      "it_long": "Il 24 ottobre 1939 nasce F. Murray Abraham a Pittsburgh. Dopo anni di ruoli secondari, ottenne fama internazionale e l'Oscar come miglior attore per l'interpretazione di Antonio Salieri in 'Amadeus' (1984) di Miloš Forman, film che esplora la rivalità artistica tra il compositore italiano e Mozart. Il ruolo resta il più celebre della sua carriera, capace di trasformare radicalmente le sue prospettive professionali.",
+      "en_long": "On October 24, 1939, F. Murray Abraham was born in Pittsburgh. After years of supporting roles, he gained international fame and the Academy Award for Best Actor for his portrayal of Antonio Salieri in Miloš Forman's 'Amadeus' (1984), a film exploring the artistic rivalry between the Italian composer and Mozart. The role remains the most celebrated of his career, radically transforming his professional prospects."
+    }
+  ],
+  "10-28": [
+    {
+      "year": 1955,
+      "cat": "birth",
+      "it": "Nasce Bill Gates, presenza documentaria",
+      "en": "Birth of Bill Gates, documentary figure",
+      "it_d": "Nasce l'imprenditore protagonista di documentari legati alla tecnologia e all'impatto digitale sul cinema.",
+      "en_d": "Birth of the entrepreneur featured in documentaries about technology and digital impact on cinema.",
+      "it_long": "Il 28 ottobre 1955 nasce Bill Gates. Sebbene non sia un uomo di cinema, la rivoluzione informatica da lui guidata ha influenzato profondamente anche la produzione e la distribuzione cinematografica digitale. La sua figura è stata oggetto di documentari che esplorano l'impatto della tecnologia sull'industria audiovisiva contemporanea.",
+      "en_long": "On October 28, 1955, Bill Gates was born. Although not a film professional, the digital revolution he helped lead has deeply influenced film production and distribution. He has been featured in documentaries exploring the impact of technology on the contemporary audiovisual industry."
+    }
+  ],
+  "10-30": [
+    {
+      "year": 1960,
+      "cat": "birth",
+      "it": "Nasce Diego Armando Maradona, soggetto documentaristico",
+      "en": "Birth of Diego Maradona",
+      "it_d": "Nasce il calciatore protagonista del pluripremiato documentario Diego Maradona di Asif Kapadia.",
+      "en_d": "Birth of the footballer, subject of Asif Kapadia's acclaimed documentary Diego Maradona.",
+      "it_long": "Il 30 ottobre 1960 nasce Diego Armando Maradona. La sua vita è stata raccontata nel documentario 'Diego Maradona' (2019) di Asif Kapadia, costruito interamente su materiale d'archivio inedito, nello stile che aveva già reso celebre il regista con 'Senna' e 'Amy'. Il film esplora il rapporto tra genio sportivo e fragilità personale, consolidando Maradona come figura mitologica del cinema documentario sportivo contemporaneo.",
+      "en_long": "On October 30, 1960, Diego Armando Maradona was born. His life was chronicled in Asif Kapadia's documentary 'Diego Maradona' (2019), built entirely from unseen archival footage, in the style that had already made the director famous with 'Senna' and 'Amy.' The film explores the relationship between sporting genius and personal fragility, cementing Maradona as a mythological figure in contemporary sports documentary cinema."
     }
   ]
- "9-3": [
-    {
-      "year": 1934,
-      "cat": "birth",
-      "it": "Nasce Freddie Francis",
-      "en": "Birth of Freddie Francis",
-      "it_d": "Nasce il direttore della fotografia bi-premio Oscar per Glory e Glory - Uomini di gloria.",
-      "en_d": "Birth of the two-time Oscar-winning cinematographer for Glory and Sons and Lovers.",
-      "it_long": "Il 3 settembre 1934 nasce Freddie Francis, figura fondamentale della cinematografia britannica. Vinse due Oscar per la miglior fotografia: il primo nel 1961 per 'Figli e amanti' e il secondo nel 1990 per 'Glory - Uomini di gloria'. Oltre al suo lavoro come direttore della fotografia per registi del calibro di David Lynch ('The Elephant Man', 'Una storia vera'), Francis fu un prolifico regista per la Hammer e la Amicus, specializzandosi nel cinema horror e contribuendo a definire l'estetica gotica degli anni '60 e '70.",
-      "en_long": "On September 3, 1934, Freddie Francis was born, a pivotal figure in British cinematography. He won two Academy Awards for Best Cinematography: the first in 1961 for 'Sons and Lovers' and the second in 1990 for 'Glory.' In addition to his work as a cinematographer for directors like David Lynch ('The Elephant Man,' 'The Straight Story'), Francis was a prolific director for Hammer and Amicus, specializing in horror cinema and helping define the Gothic aesthetic of the 1960s and 70s."
-    }
-  ],
-  "9-4": [
-    {
-      "year": 1953,
-      "cat": "historic",
-      "it": "Nasce il formato CinemaScope",
-      "en": "CinemaScope format is born",
-      "it_d": "Debutta a New York La tunica, il primo film girato nel rivoluzionario formato widescreen CinemaScope.",
-      "en_d": "The Robe premieres in New York, the first film shot in the revolutionary CinemaScope widescreen format.",
-      "it_long": "Il 4 settembre 1953 viene proiettato in anteprima a New York 'La tunica' (The Robe). Si tratta del primo film girato in CinemaScope, un processo di lenti anamorfiche che permetteva di proiettare immagini su uno schermo molto più largo. Questa tecnologia fu la risposta di Hollywood alla crescente popolarità della televisione, offrendo agli spettatori un'esperienza visiva epica e panoramica che il piccolo schermo non poteva replicare. L'introduzione del CinemaScope ha cambiato per sempre la composizione dell'inquadratura e la progettazione delle sale cinematografiche.",
-      "en_long": "On September 4, 1953, 'The Robe' premiered in New York. It was the first film shot in CinemaScope, an anamorphic lens process that allowed images to be projected on a much wider screen. This technology was Hollywood's answer to the rising popularity of television, offering viewers an epic, panoramic visual experience that the small screen could not replicate. The introduction of CinemaScope forever changed shot composition and the architectural design of movie theaters."
-    }
-  ],
-  "9-8": [
-    {
-      "year": 1932,
-      "cat": "historic",
-      "it": "Fine della prima Mostra del Cinema di Venezia",
-      "en": "End of the first Venice Film Festival",
-      "it_d": "Si chiude al Lido di Venezia la prima edizione della mostra d'arte cinematografica più antica del mondo.",
-      "en_d": "The first edition of the world's oldest film festival concludes at the Venice Lido.",
-      "it_long": "L'8 settembre 1932 si conclude la prima Esposizione Internazionale d'Arte Cinematografica di Venezia. Inaugurata il 6 agosto sulla terrazza dell'Hotel Excelsior, la mostra non era ancora competitiva (i premi ufficiali arrivarono solo nel 1934). Il primo film proiettato fu 'Il dottor Jekyll' di Rouben Mamoulian. Nonostante l'assenza di giurie, un referendum tra il pubblico decretò i vincitori morali. Questo evento segnò la nascita del concetto moderno di festival cinematografico internazionale, trasformando il cinema da intrattenimento popolare a forma d'arte degna di celebrazione accademica.",
-      "en_long": "On September 8, 1932, the first International Venice Film Festival concluded. Inaugurated on August 6 on the terrace of the Hotel Excelsior, the festival was not yet competitive (official awards only arrived in 1934). The first film screened was Rouben Mamoulian's 'Dr. Jekyll and Mr. Hyde.' Despite the lack of juries, a public referendum decided the winners. This event marked the birth of the modern international film festival concept, transforming cinema from popular entertainment into an art form worthy of academic celebration."
-    }
-  ],
-  "9-14": [
-    {
-      "year": 1984,
-      "cat": "award",
-      "it": "Primi MTV Video Music Awards",
-      "en": "First MTV Video Music Awards",
-      "it_d": "A New York si tiene la prima edizione dei VMA, premiando la regia e il montaggio dei video musicali.",
-      "en_d": "The first VMAs are held in New York, awarding the direction and editing of music videos.",
-      "it_long": "Il 14 settembre 1984 si svolge a New York la prima edizione degli MTV Video Music Awards. Sebbene nati per la musica, i VMA sono un evento cruciale per la storia del cinema moderno poiché hanno celebrato e professionalizzato il videoclip come forma di cinema breve. Registi come David Fincher, Spike Jonze e Michel Gondry hanno iniziato la loro carriera proprio in questo ambito, portando poi le innovazioni tecniche del videoclip (montaggio frenetico, effetti speciali digitali) nel cinema mainstream di Hollywood.",
-      "en_long": "On September 14, 1984, the first MTV Video Music Awards were held in New York. Although born for music, the VMAs are a crucial event for the history of modern cinema as they celebrated and professionalized the music video as a short cinematic form. Directors like David Fincher, Spike Jonze, and Michel Gondry began their careers in this field, later bringing the technical innovations of music videos (frenetic editing, digital special effects) into mainstream Hollywood cinema."
-    }
-  ],
-  "9-20": [
-    {
-      "year": 1934,
-      "cat": "birth",
-      "it": "Nasce Sophia Loren",
-      "en": "Birth of Sophia Loren",
-      "it_d": "Nasce a Roma l'icona del cinema mondiale, prima attrice in un film non inglese a vincere l'Oscar.",
-      "en_d": "Born in Rome, the global cinema icon was the first actress in a non-English film to win an Oscar.",
-      "it_long": "Il 20 settembre 1934 nasce Sophia Loren. Simbolo della bellezza e del talento italiano nel mondo, la Loren ha segnato un'epoca con le sue interpretazioni dirette da Vittorio De Sica. Nel 1962 vinse l'Oscar come miglior attrice per 'La ciociara', un primato storico poiché fu la prima volta che il premio andava a una recitazione in lingua non inglese. La sua carriera, che spazia dal neorealismo alla Hollywood classica, le è valsa un secondo Oscar alla carriera nel 1991, confermandola come una delle leggende viventi del grande schermo.",
-      "en_long": "On September 20, 1934, Sophia Loren was born. A symbol of Italian beauty and talent worldwide, Loren defined an era with her performances directed by Vittorio De Sica. In 1962, she won the Academy Award for Best Actress for 'Two Women' (La Ciociara), a historic milestone as it was the first time the award was given for a non-English language performance. Her career, spanning from Neorealism to classic Hollywood, earned her a second Honorary Oscar in 1991, confirming her as one of the living legends of the silver screen."
-    }
-  ],
-  "9-23": [
-    {
-      "year": 1938,
-      "cat": "birth",
-      "it": "Nasce Romy Schneider",
-      "en": "Birth of Romy Schneider",
-      "it_d": "Nasce l'indimenticabile interprete di Sissi che divenne poi musa del cinema d'autore europeo.",
-      "en_d": "Birth of the unforgettable Sissi actress who later became a muse of European auteur cinema.",
-      "it_long": "Il 23 settembre 1938 nasce Romy Schneider a Vienna. Dopo il successo planetario e precoce della trilogia di 'Sissi', Schneider si trasferì in Francia per sfuggire a un ruolo che sentiva soffocante. Lavorando con registi come Luchino Visconti ('Boccaccio '70', 'Ludwig') e Claude Sautet, si trasformò in un'attrice di straordinaria profondità drammatica. La sua interpretazione ne 'La piscina' e 'L'importante è amare' (per cui vinse il primo premio César della storia) la consacrarono come una delle interpreti più sensibili e tragiche del cinema moderno.",
-      "en_long": "On September 23, 1938, Romy Schneider was born in Vienna. After the early and global success of the 'Sissi' trilogy, Schneider moved to France to escape a role she found suffocating. Working with directors like Luchino Visconti ('Boccaccio '70,' 'Ludwig') and Claude Sautet, she transformed into an actress of extraordinary dramatic depth. Her performances in 'The Swimming Pool' and 'That Most Important Thing: Love' (for which she won the first-ever César Award) established her as one of modern cinema's most sensitive and tragic performers."
-    }
-  ],
-  "9-29": [
-    {
-      "year": 1912,
-      "cat": "birth",
-      "it": "Nasce Michelangelo Antonioni",
-      "en": "Birth of Michelangelo Antonioni",
-      "it_d": "Nasce il maestro dell'incomunicabilità, regista di L'avventura e Blow-Up, premiato con l'Oscar alla carriera.",
-      "en_d": "Birth of the master of incommunicability, director of L'Avventura and Blow-Up, Honorary Oscar winner.",
-      "it_long": "Il 29 settembre 1912 nasce Michelangelo Antonioni. Cineasta della modernità e del silenzio, Antonioni ha rivoluzionato il linguaggio cinematografico negli anni '60 con la 'Trilogia dell'incomunicabilità' (L'avventura, La notte, L'eclisse), sostituendo l'azione con l'analisi psicologica e spaziale. Con 'Blow-Up' (1966), Palma d'Oro a Cannes, esplorò il limite tra realtà e finzione nell'immagine fotografica. Il suo stile visivo rigoroso e la sua capacità di catturare il malessere della società contemporanea lo hanno reso uno dei registi più influenti del XX secolo, premiato con l'Oscar alla carriera nel 1995.",
-      "en_long": "On September 29, 1912, Michelangelo Antonioni was born. A filmmaker of modernity and silence, Antonioni revolutionized cinematic language in the 1960s with his 'Trilogy of Incommunicability' (L'Avventura, La Notte, L'Eclisse), replacing traditional plot with psychological and spatial analysis. With 'Blow-Up' (1966), winner of the Palme d'Or at Cannes, he explored the boundary between reality and fiction in the photographic image. His rigorous visual style and ability to capture the malaise of contemporary society made him one of the most influential directors of the 20th century, awarded an Honorary Oscar in 1995."
-    }
-  ]
-} 
+}
